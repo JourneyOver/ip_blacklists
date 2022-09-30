@@ -1,2 +1,10 @@
 curl "https://lists.blocklist.delists/all.txt" -H "Accept: text/plain" > lists/blocklistde_blacklist_ip.txt || true
 curl "http://antivirus.neu.edu.cn/sshlists/neu.txt" -H "Accept: text/plain" > lists/neucert_blacklist_ip.txt || true
+
+
+
+ ----- IDEAS -----
+ https://github.com/brkai/ipblocking
+ https://gist.github.com/MalteKiefer/407849891195a542dfa97329510aa387
+ https://github.com/AliJenabi17/abuseipdb
+ https://github.com/cyqsimon/IP-Block-Script
