@@ -1,0 +1,2 @@
+curl "https://lists.blocklist.delists/all.txt" -H "Accept: text/plain" > lists/blocklistde_blacklist_ip.txt || true
+curl "http://antivirus.neu.edu.cn/sshlists/neu.txt" -H "Accept: text/plain" > lists/neucert_blacklist_ip.txt || true

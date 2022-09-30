@@ -15,15 +15,13 @@ jobs:
     - name: Fetch
       run: |
         curl -G "https://api.abuseipdb.com/api/v2/blacklist" -d confidenceMinimum=85 -d limit=9999999 -d plaintext -H "Key: ${{ secrets.ABUSEIPDB_TOKEN }}" -H "Accept: text/plain" > lists/abuseipdb_blacklist_ip_score_85.txt || true
-        curl "http://antivirus.neu.edu.cn/sshlists/neu.txt" -H "Accept: text/plain" > lists/neucert_blacklist_ip.txt || true
         curl "https://blackip.ustc.edu.cn/list.php?txt" -H "Accept: text/plain" > lists/ustc_blacklist_ip.txt || true
         curl "https://www.projecthoneypot.org/list_of_ips.php?t=d&rss=1" -H "Accept: text/plain" > lists/projecthoneypot_blacklist_ip.txt || true
         curl "https://check.torproject.org/torbulkexitlist?ip=1.1.1.1" -H "Accept: text/plain" > lists/torproject_blacklist_ip.txt || true
         curl "https://www.maxmind.com/en/high-risk-ip-sample-list" -H "Accept: text/plain" > lists/maxmind_blacklist_ip.txt || true
-        curl "http://danger.rulez.sk/projects/bruteforceblocker/blist.php" -H "Accept: text/plain" > lists/bruteforceblocker_blacklist_ip.txt || true
+        curl "https://danger.rulez.sk/projects/bruteforceblocker/blist.php" -H "Accept: text/plain" > lists/bruteforceblocker_blacklist_ip.txt || true
         curl "https://www.spamhaus.org/drop/drop.lasso" -H "Accept: text/plain" > lists/spamhaus_blacklist_ip.txt || true
         curl "http://cinsscore.com/list/ci-badguys.txt" -H "Accept: text/plain" > lists/ci-badguys_blacklist_ip.txt || true
-        curl "https://lists.blocklist.delists/all.txt" -H "Accept: text/plain" > lists/blocklistde_blacklist_ip.txt || true
         curl "http://blocklist.greensnow.co/greensnow.txt" -H "Accept: text/plain" > lists/greensnow_blacklist_ip.txt || true
         curl "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset" -H "Accept: text/plain" > lists/firehol_level1_blacklist_ip.txt || true
         curl "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_7d.ipset" -H "Accept: text/plain" > lists/stopforumspam_7d_blacklist_ip.txt || true
