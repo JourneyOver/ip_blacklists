@@ -14,13 +14,13 @@
         media="all"
         rel="stylesheet"
         type="text/css"
-        href="https://static.maxmind.com/21be07ff6c479f1d4b81/css/main.css"
+        href="https://static.maxmind.com/da02e82a4cdc402c1d0e/css/main.css"
         integrity="sha256-aVtGiPSA/zS7EanougNBOUG4J4McdB/yWPByJj3vQ5I="
         crossorigin="anonymous"
-        nonce="2KmL/nFPS9KTGNLfdsa9Nw=="
+        nonce="gjW2NMW9RwW6OOdOqS7U0A=="
       >
     <!-- Push to the dataLayer _before_ loading Google Tag Manager -->
-    <script nonce="2KmL/nFPS9KTGNLfdsa9Nw==">
+    <script nonce="gjW2NMW9RwW6OOdOqS7U0A==">
       var dataLayer = window.dataLayer || [];
 
       
@@ -32,7 +32,7 @@
     </script>
     
       <!-- Google Tag Manager -->
-      <script nonce="2KmL/nFPS9KTGNLfdsa9Nw==">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      <script nonce="gjW2NMW9RwW6OOdOqS7U0A==">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
       j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -1001,32 +1001,32 @@
 </div>
 
 
-  <script nonce="2KmL/nFPS9KTGNLfdsa9Nw==" id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e32809b5-6032-4c2f-b1f9-63931adc0cc1"></script>
+  <script nonce="gjW2NMW9RwW6OOdOqS7U0A==" id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e32809b5-6032-4c2f-b1f9-63931adc0cc1"></script>
 
 
-  <script src="https://static.maxmind.com/21be07ff6c479f1d4b81/js/knockout.js" integrity="sha256-Sent/NzWHwwftnQ5HGzk0efU1DSDm9t+mYyh73XYgy8=" crossorigin="anonymous" nonce="2KmL/nFPS9KTGNLfdsa9Nw=="></script>
+  <script src="https://static.maxmind.com/da02e82a4cdc402c1d0e/js/knockout.js" integrity="sha256-Sent/NzWHwwftnQ5HGzk0efU1DSDm9t+mYyh73XYgy8=" crossorigin="anonymous" nonce="gjW2NMW9RwW6OOdOqS7U0A=="></script>
   <script
-    src="https://static.maxmind.com/21be07ff6c479f1d4b81/js/main.js"
+    src="https://static.maxmind.com/da02e82a4cdc402c1d0e/js/main.js"
     integrity="sha256-0Ayn6CKbDnZIOsNyXZVkiB0+cv8+wTLskSyTa81cf1k="
     crossorigin="anonymous"
-    nonce="2KmL/nFPS9KTGNLfdsa9Nw=="
+    nonce="gjW2NMW9RwW6OOdOqS7U0A=="
     type="module"
   ></script>
 
-<script nonce="2KmL/nFPS9KTGNLfdsa9Nw==">
+<script nonce="gjW2NMW9RwW6OOdOqS7U0A==">
   window.MaxMind = window.MaxMind || {};
   window.MaxMind.isSandboxEnvironment = false;
 </script>
 
 
-<script nonce="2KmL/nFPS9KTGNLfdsa9Nw==">
+<script nonce="gjW2NMW9RwW6OOdOqS7U0A==">
   (function() {
     var mmapiws = window.__mmapiws = window.__mmapiws || {};
     mmapiws.accountId = 10;
     var loadDeviceJs = function() {
       var element = document.createElement('script');
       element.async = true;
-      element.src = "https:\/\/static.maxmind.com\/21be07ff6c479f1d4b81\/js\/device.js";
+      element.src = "https:\/\/static.maxmind.com\/da02e82a4cdc402c1d0e\/js\/device.js";
       element.crossOrigin = 'anonymous';
       element.integrity = "sha256-V4G5C8Kt5QZbsajnlkOP8P1tfA8wAEWeFNcCf3NREPI=";
       document.body.appendChild(element);
