@@ -14,13 +14,13 @@
         media="all"
         rel="stylesheet"
         type="text/css"
-        href="https://static.maxmind.com/6b282e31c745f6680eac/css/main.css"
+        href="https://static.maxmind.com/a5fc568fd90fb0cbf40d/css/main.css"
         integrity="sha256-38WhYVxztSYkYVgqx4OYa94pjFYAVBbQw93f13o0OPA="
         crossorigin="anonymous"
-        nonce="7KULV+6TSju/2nVcK6tyAg=="
+        nonce="MoxZGvhtTxuZeqO+3DVzlg=="
       >
     <!-- Push to the dataLayer _before_ loading Google Tag Manager -->
-    <script nonce="7KULV+6TSju/2nVcK6tyAg==">
+    <script nonce="MoxZGvhtTxuZeqO+3DVzlg==">
       var dataLayer = window.dataLayer || [];
 
       
@@ -32,7 +32,7 @@
     </script>
     
       <!-- Google Tag Manager -->
-      <script nonce="7KULV+6TSju/2nVcK6tyAg==">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      <script nonce="MoxZGvhtTxuZeqO+3DVzlg==">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
       j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -92,7 +92,7 @@
               </button>
 
               <a class="header__logo" id="boo-header__logo" href="home">
-                <img class="header__logo-svg" alt="MaxMind Logo" src="https://static.maxmind.com/6b282e31c745f6680eac/images/maxmind-header-logo-compact-alt.svg">
+                <img class="header__logo-svg" alt="MaxMind Logo" src="https://static.maxmind.com/a5fc568fd90fb0cbf40d/images/maxmind-header-logo-compact-alt.svg">
               </a>
 
               <div class="utility-nav utility-nav--search">
@@ -286,7 +286,7 @@
                                 </a>
                               </li>
                               <li>
-                                <a class="main-nav__subnav-link dropdown-item" href="/en/privacy-policy#additional-disclosures-for-california-residents">
+                                <a class="main-nav__subnav-link dropdown-item" href="/en/opt-out">
                                   Do Not Sell My Personal Information
                                 </a>
                               </li>
@@ -760,7 +760,7 @@
       <div class="row footer__body">
         <div class="col-md-3 footer__brand">
           <a class="footer__logo" href="home">
-            <img class="footer__logo-svg" alt="MaxMind Footer Logo" src="https://static.maxmind.com/6b282e31c745f6680eac/images/maxmind-footer-logo.svg">
+            <img class="footer__logo-svg" alt="MaxMind Footer Logo" src="https://static.maxmind.com/a5fc568fd90fb0cbf40d/images/maxmind-footer-logo.svg">
           </a>
           <div class="footer__social clearfix">
             <a class="footer__social-link" href="https://twitter.com/maxmind" target="_blank" rel="noopener" title="Twitter"><span class="bi bi-twitter"></span></a>
@@ -848,7 +848,7 @@
                         </a>
                       </li>
                       <li class="footer__nav-item">
-                        <a class="footer__nav-link" href="/en/privacy-policy#additional-disclosures-for-california-residents">
+                        <a class="footer__nav-link" href="/en/opt-out">
                           Do Not Sell My Personal Information
                         </a>
                       </li>
@@ -936,31 +936,31 @@
 </div>
 
 
-  <script nonce="7KULV+6TSju/2nVcK6tyAg==" id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e32809b5-6032-4c2f-b1f9-63931adc0cc1"></script>
+  <script nonce="MoxZGvhtTxuZeqO+3DVzlg==" id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e32809b5-6032-4c2f-b1f9-63931adc0cc1"></script>
 
 
   <script
-    src="https://static.maxmind.com/6b282e31c745f6680eac/js/main.js"
-    integrity="sha256-HpfoyKjk+fjvoRAX4Iskg2bW7fI949bkl/J9VBYZc0A="
+    src="https://static.maxmind.com/a5fc568fd90fb0cbf40d/js/main.js"
+    integrity="sha256-O/rIFsVWZlun7IqcT+M9O4yjFpygdrL14EhmTtkdYUk="
     crossorigin="anonymous"
-    nonce="7KULV+6TSju/2nVcK6tyAg=="
+    nonce="MoxZGvhtTxuZeqO+3DVzlg=="
     type="module"
   ></script>
 
-<script nonce="7KULV+6TSju/2nVcK6tyAg==">
+<script nonce="MoxZGvhtTxuZeqO+3DVzlg==">
   window.MaxMind = window.MaxMind || {};
   window.MaxMind.isSandboxEnvironment = false;
 </script>
 
 
-<script nonce="7KULV+6TSju/2nVcK6tyAg==">
+<script nonce="MoxZGvhtTxuZeqO+3DVzlg==">
   (function() {
     var mmapiws = window.__mmapiws = window.__mmapiws || {};
     mmapiws.accountId = 10;
     var loadDeviceJs = function() {
       var element = document.createElement('script');
       element.async = true;
-      element.src = "https:\/\/static.maxmind.com\/6b282e31c745f6680eac\/js\/device.js";
+      element.src = "https:\/\/static.maxmind.com\/a5fc568fd90fb0cbf40d\/js\/device.js";
       element.crossOrigin = 'anonymous';
       element.integrity = "sha256-q65\/cFhZX08iY2t9ao7vx1UDW2UFeOiOhQOxtydHrYM=";
       document.body.appendChild(element);
