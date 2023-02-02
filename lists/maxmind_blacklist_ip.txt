@@ -14,13 +14,13 @@
         media="all"
         rel="stylesheet"
         type="text/css"
-        href="https://static.maxmind.com/d75a699e3d0f7b0a04a3/css/main.css"
-        integrity='sha256-sVd7iPw+JGbrSiNo4QDg70s0x4YwXY8OsulJqpytXDs='
+        href="https://static.maxmind.com/8ccbadf4d1187084b75b/css/main.css"
+        integrity='sha256-supNOe83m0YyDTB6yZWqYOAnTUJH5eDDsVYviYBAcVI='
         crossorigin="anonymous"
-        nonce="2jc9vJBrQO+FU92SCksBLg=="
+        nonce="mU70jQntS1OXB7NBB2yDxQ=="
       >
     <!-- Push to the dataLayer _before_ loading Google Tag Manager -->
-    <script nonce="2jc9vJBrQO+FU92SCksBLg==">
+    <script nonce="mU70jQntS1OXB7NBB2yDxQ==">
       var dataLayer = window.dataLayer || [];
 
       
@@ -32,7 +32,7 @@
     </script>
     
       <!-- Google Tag Manager -->
-      <script nonce="2jc9vJBrQO+FU92SCksBLg==">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      <script nonce="mU70jQntS1OXB7NBB2yDxQ==">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
       j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -92,7 +92,7 @@
               </button>
 
               <a class="header__logo" id="boo-header__logo" href="home">
-                <img class="header__logo-svg" alt="MaxMind Logo" src="https://static.maxmind.com/d75a699e3d0f7b0a04a3/images/maxmind-header-logo-compact-alt.svg">
+                <img class="header__logo-svg" alt="MaxMind Logo" src="https://static.maxmind.com/8ccbadf4d1187084b75b/images/maxmind-header-logo-compact-alt.svg">
               </a>
 
               <div class="utility-nav utility-nav--search">
@@ -755,7 +755,7 @@
       <div class="row footer__body">
         <div class="col-md-3 footer__brand">
           <a class="footer__logo" href="home">
-            <img class="footer__logo-svg" alt="MaxMind Footer Logo" src="https://static.maxmind.com/d75a699e3d0f7b0a04a3/images/maxmind-footer-logo.svg">
+            <img class="footer__logo-svg" alt="MaxMind Footer Logo" src="https://static.maxmind.com/8ccbadf4d1187084b75b/images/maxmind-footer-logo.svg">
           </a>
           <div class="footer__social clearfix">
             <a class="footer__social-link" href="https://twitter.com/maxmind" target="_blank" rel="noopener" title="Twitter"><span class="bi bi-twitter"></span></a>
@@ -931,40 +931,40 @@
 </div>
 
 
-  <script nonce="2jc9vJBrQO+FU92SCksBLg==" id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e32809b5-6032-4c2f-b1f9-63931adc0cc1"></script>
+  <script nonce="mU70jQntS1OXB7NBB2yDxQ==" id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e32809b5-6032-4c2f-b1f9-63931adc0cc1"></script>
 
 
   <script
-    src="https://static.maxmind.com/d75a699e3d0f7b0a04a3/js/main.js"
-    integrity='sha256-qPWkwE/DuVyqoiCMPbm0fodvfqA4M06Eql2bLkVJw1A='
+    src="https://static.maxmind.com/8ccbadf4d1187084b75b/js/main.js"
+    integrity='sha256-ueCwokMOk+wR+LA//E69WVpZU7NghzlCD623qfeOUo4='
     crossorigin="anonymous"
-    nonce="2jc9vJBrQO+FU92SCksBLg=="
+    nonce="mU70jQntS1OXB7NBB2yDxQ=="
     type="module"
   ></script>
 
   <script
     async
-    src="https://static.maxmind.com/d75a699e3d0f7b0a04a3/js/global-privacy-control.js"
+    src="https://static.maxmind.com/8ccbadf4d1187084b75b/js/global-privacy-control.js"
     integrity='sha256-XDwVgV9h7vdGs5gFpt57otjWtFztUwqNMzT7LQ4bOKM='
     crossorigin="anonymous"
-    nonce="2jc9vJBrQO+FU92SCksBLg=="
+    nonce="mU70jQntS1OXB7NBB2yDxQ=="
     type="module"
   ></script>
 
-<script nonce="2jc9vJBrQO+FU92SCksBLg==">
+<script nonce="mU70jQntS1OXB7NBB2yDxQ==">
   window.MaxMind = window.MaxMind || {};
   window.MaxMind.isSandboxEnvironment = false;
 </script>
 
 
-<script nonce="2jc9vJBrQO+FU92SCksBLg==">
+<script nonce="mU70jQntS1OXB7NBB2yDxQ==">
   (function() {
     var mmapiws = window.__mmapiws = window.__mmapiws || {};
     mmapiws.accountId = 10;
     var loadDeviceJs = function() {
       var element = document.createElement('script');
       element.async = true;
-      element.src = "https:\/\/static.maxmind.com\/d75a699e3d0f7b0a04a3\/js\/device.js";
+      element.src = "https:\/\/static.maxmind.com\/8ccbadf4d1187084b75b\/js\/device.js";
       element.crossOrigin = 'anonymous';
       element.integrity = 'sha256-q65/cFhZX08iY2t9ao7vx1UDW2UFeOiOhQOxtydHrYM=';
       document.body.appendChild(element);
