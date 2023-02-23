@@ -14,13 +14,13 @@
         media="all"
         rel="stylesheet"
         type="text/css"
-        href="https://static.maxmind.com/37bccd4b22d2ee5262f4/css/main.css"
+        href="https://static.maxmind.com/44bbde87170a04ecbda8/css/main.css"
         integrity='sha256-supNOe83m0YyDTB6yZWqYOAnTUJH5eDDsVYviYBAcVI='
         crossorigin="anonymous"
-        nonce="Y5M+4VqsTvmrD9NxMg9s1w=="
+        nonce="YFmmymKjQ4upbnWRPWHEVw=="
       >
     <!-- Push to the dataLayer _before_ loading Google Tag Manager -->
-    <script nonce="Y5M+4VqsTvmrD9NxMg9s1w==">
+    <script nonce="YFmmymKjQ4upbnWRPWHEVw==">
       var dataLayer = window.dataLayer || [];
 
       
@@ -37,11 +37,11 @@
         async
         crossorigin="anonymous"
         src="https://www.googletagmanager.com/gtag/js?id=G-MFHQMR6B56"
-        nonce="Y5M+4VqsTvmrD9NxMg9s1w=="
+        nonce="YFmmymKjQ4upbnWRPWHEVw=="
       ></script>
       <script
         crossorigin="anonymous"
-        nonce="Y5M+4VqsTvmrD9NxMg9s1w=="
+        nonce="YFmmymKjQ4upbnWRPWHEVw=="
       >
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -97,7 +97,7 @@
               </button>
 
               <a class="header__logo" id="boo-header__logo" href="home">
-                <img class="header__logo-svg" alt="MaxMind Logo" src="https://static.maxmind.com/37bccd4b22d2ee5262f4/images/maxmind-header-logo-compact-alt.svg">
+                <img class="header__logo-svg" alt="MaxMind Logo" src="https://static.maxmind.com/44bbde87170a04ecbda8/images/maxmind-header-logo-compact-alt.svg">
               </a>
 
               <div class="utility-nav utility-nav--search">
@@ -766,7 +766,7 @@
       <div class="row footer__body">
         <div class="col-md-3 footer__brand">
           <a class="footer__logo" href="home">
-            <img class="footer__logo-svg" alt="MaxMind Footer Logo" src="https://static.maxmind.com/37bccd4b22d2ee5262f4/images/maxmind-footer-logo.svg">
+            <img class="footer__logo-svg" alt="MaxMind Footer Logo" src="https://static.maxmind.com/44bbde87170a04ecbda8/images/maxmind-footer-logo.svg">
           </a>
           <div class="footer__social clearfix">
             <a class="footer__social-link" href="https://twitter.com/maxmind" target="_blank" rel="noopener" title="Twitter"><span class="bi bi-twitter"></span></a>
@@ -942,40 +942,40 @@
 </div>
 
 
-  <script nonce="Y5M+4VqsTvmrD9NxMg9s1w==" id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e32809b5-6032-4c2f-b1f9-63931adc0cc1"></script>
+  <script nonce="YFmmymKjQ4upbnWRPWHEVw==" id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e32809b5-6032-4c2f-b1f9-63931adc0cc1"></script>
 
 
   <script
-    src="https://static.maxmind.com/37bccd4b22d2ee5262f4/js/main.js"
+    src="https://static.maxmind.com/44bbde87170a04ecbda8/js/main.js"
     integrity='sha256-oOa1URmnYjfT0neRc8h+KPjKdIg8j5LgS6PykDwzpFo='
     crossorigin="anonymous"
-    nonce="Y5M+4VqsTvmrD9NxMg9s1w=="
+    nonce="YFmmymKjQ4upbnWRPWHEVw=="
     type="module"
   ></script>
 
   <script
     async
-    src="https://static.maxmind.com/37bccd4b22d2ee5262f4/js/global-privacy-control.js"
+    src="https://static.maxmind.com/44bbde87170a04ecbda8/js/global-privacy-control.js"
     integrity='sha256-XDwVgV9h7vdGs5gFpt57otjWtFztUwqNMzT7LQ4bOKM='
     crossorigin="anonymous"
-    nonce="Y5M+4VqsTvmrD9NxMg9s1w=="
+    nonce="YFmmymKjQ4upbnWRPWHEVw=="
     type="module"
   ></script>
 
-<script nonce="Y5M+4VqsTvmrD9NxMg9s1w==">
+<script nonce="YFmmymKjQ4upbnWRPWHEVw==">
   window.MaxMind = window.MaxMind || {};
   window.MaxMind.isSandboxEnvironment = false;
 </script>
 
 
-<script nonce="Y5M+4VqsTvmrD9NxMg9s1w==">
+<script nonce="YFmmymKjQ4upbnWRPWHEVw==">
   (function() {
     var mmapiws = window.__mmapiws = window.__mmapiws || {};
     mmapiws.accountId = 10;
     var loadDeviceJs = function() {
       var element = document.createElement('script');
       element.async = true;
-      element.src = "https:\/\/static.maxmind.com\/37bccd4b22d2ee5262f4\/js\/device.js";
+      element.src = "https:\/\/static.maxmind.com\/44bbde87170a04ecbda8\/js\/device.js";
       element.crossOrigin = 'anonymous';
       element.integrity = 'sha256-q65/cFhZX08iY2t9ao7vx1UDW2UFeOiOhQOxtydHrYM=';
       document.body.appendChild(element);
