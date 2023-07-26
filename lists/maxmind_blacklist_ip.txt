@@ -14,13 +14,13 @@
         media="all"
         rel="stylesheet"
         type="text/css"
-        href="https://static.maxmind.com/e44e0e28bdd157d20d45/css/main.css"
+        href="https://static.maxmind.com/2fd6c96f584def765df5/css/main.css"
         integrity='sha256-XBVL1QW6/MHY9JqqCaShp/23p6SwQR7Cq14NgCNjPiY='
         crossorigin="anonymous"
-        nonce="jTo6TxCNQVW/qKLW9siu2g=="
+        nonce="T0kEIvyvQZqjaElsNlxziw=="
       >
     <!-- Push to the dataLayer _before_ loading Google Tag Manager -->
-    <script nonce="jTo6TxCNQVW/qKLW9siu2g==">
+    <script nonce="T0kEIvyvQZqjaElsNlxziw==">
       var dataLayer = window.dataLayer || [];
 
       
@@ -40,11 +40,11 @@
         async
         crossorigin="anonymous"
         src="https://www.googletagmanager.com/gtag/js?id=G-VTRE0TZX89"
-        nonce="jTo6TxCNQVW/qKLW9siu2g=="
+        nonce="T0kEIvyvQZqjaElsNlxziw=="
       ></script>
       <script
         crossorigin="anonymous"
-        nonce="jTo6TxCNQVW/qKLW9siu2g=="
+        nonce="T0kEIvyvQZqjaElsNlxziw=="
       >
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -179,7 +179,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--large">
                       <img
                         alt="An ecommerce website and a shopping cart on a tablet"
-                        src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/redesign/fraud-prevention-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/2fd6c96f584def765df5/images/redesign/fraud-prevention-main-navigation-icon.svg"
                         height="149"
                         width="144"
                       />
@@ -197,7 +197,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--large">
                       <img
                         alt="Online users around the globe accessing ecommerce and streaming services with map pins to indicate users' specific location"
-                        src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/redesign/ip-geolocation-and-intelligence-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/2fd6c96f584def765df5/images/redesign/ip-geolocation-and-intelligence-main-navigation-icon.svg"
                         height="158"
                         width="135"
                       />
@@ -215,7 +215,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--large">
                       <img
                         alt="A computer monitor with green and red IP addresses, detecting anonymous IPs, and managing access"
-                        src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/redesign/proxy-detection-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/2fd6c96f584def765df5/images/redesign/proxy-detection-main-navigation-icon.svg"
                         height="133"
                         width="151"
                       />
@@ -247,7 +247,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--small">
                       <img
                         alt="Support main navigation icon"
-                        src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/redesign/support-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/2fd6c96f584def765df5/images/redesign/support-main-navigation-icon.svg"
                         height="60"
                         width="63"
                       />
@@ -275,7 +275,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--small">
                       <img
                         alt="Learning main navigation icon"
-                        src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/redesign/learning-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/2fd6c96f584def765df5/images/redesign/learning-main-navigation-icon.svg"
                         height="60"
                         width="51"
                       />
@@ -300,7 +300,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--small">
                       <img
                         alt="Developers main navigation icon"
-                        src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/redesign/developers-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/2fd6c96f584def765df5/images/redesign/developers-main-navigation-icon.svg"
                         height="65"
                         width="73"
                       />
@@ -325,7 +325,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--small">
                       <img
                         alt="Legal main navigation icon"
-                        src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/redesign/legal-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/2fd6c96f584def765df5/images/redesign/legal-main-navigation-icon.svg"
                         height="65"
                         width="59"
                       />
@@ -367,7 +367,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--small">
                       <img
                         alt="About is main navigation icon"
-                        src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/redesign/about-us-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/2fd6c96f584def765df5/images/redesign/about-us-main-navigation-icon.svg"
                         height="62"
                         width="62"
                       />
@@ -384,7 +384,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--small">
                       <img
                         alt="Commitment to security main navigation icon"
-                        src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/redesign/commitment-to-security-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/2fd6c96f584def765df5/images/redesign/commitment-to-security-main-navigation-icon.svg"
                         height="62"
                         width="65"
                       />
@@ -401,7 +401,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--small">
                       <img
                         alt="Working at MaxMind main navigation icon"
-                        src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/redesign/working-at-maxmind-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/2fd6c96f584def765df5/images/redesign/working-at-maxmind-main-navigation-icon.svg"
                         height="62"
                         width="62"
                       />
@@ -418,7 +418,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--small">
                       <img
                         alt="Contact us main navigation icon"
-                        src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/redesign/contact-us-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/2fd6c96f584def765df5/images/redesign/contact-us-main-navigation-icon.svg"
                         height="62"
                         width="62"
                       />
@@ -669,31 +669,6 @@
 </p>
 
 <p class="row">
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/2.56.119.93">2.56.119.93</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/2.56.164.52">2.56.164.52</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/2.58.56.37">2.58.56.37</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/23.128.248.10">23.128.248.10</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/23.137.251.61">23.137.251.61</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/37.120.153.229">37.120.153.229</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/38.97.116.244">38.97.116.244</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.50.119.182">45.50.119.182</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.61.185.38">45.61.185.38</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.134.225.36">45.134.225.36</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.138.16.42">45.138.16.42</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.138.16.230">45.138.16.230</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.141.215.80">45.141.215.80</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.141.215.169">45.141.215.169</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.141.215.235">45.141.215.235</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/47.176.132.82">47.176.132.82</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/50.212.34.202">50.212.34.202</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/51.89.153.112">51.89.153.112</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/67.149.255.87">67.149.255.87</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/69.167.7.45">69.167.7.45</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/70.231.44.160">70.231.44.160</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/73.155.145.31">73.155.145.31</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/76.137.199.242">76.137.199.242</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/77.68.20.217">77.68.20.217</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/78.142.18.219">78.142.18.219</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/104.192.0.18">104.192.0.18</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/104.244.79.44">104.244.79.44</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/107.189.5.121">107.189.5.121</a>
@@ -728,9 +703,6 @@
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.107.70.56">185.107.70.56</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.181.61.115">185.181.61.115</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.195.71.244">185.195.71.244</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.5">185.220.101.5</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.6">185.220.101.6</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.9">185.220.101.9</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.17">185.220.101.17</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.18">185.220.101.18</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.20">185.220.101.20</a>
@@ -740,19 +712,22 @@
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.32">185.220.101.32</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.33">185.220.101.33</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.36">185.220.101.36</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.5">185.220.101.5</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.6">185.220.101.6</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.64">185.220.101.64</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.78">185.220.101.78</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.101.9">185.220.101.9</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.102.249">185.220.102.249</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.103.113">185.220.103.113</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.103.115">185.220.103.115</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.220.103.117">185.220.103.117</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.241.208.115">185.241.208.115</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.243.218.89">185.243.218.89</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.243.218.95">185.243.218.95</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.243.218.110">185.243.218.110</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.243.218.202">185.243.218.202</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/191.101.31.68">191.101.31.68</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.243.218.89">185.243.218.89</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/185.243.218.95">185.243.218.95</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/191.101.174.38">191.101.174.38</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/191.101.31.68">191.101.31.68</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/192.42.116.173">192.42.116.173</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/192.42.116.174">192.42.116.174</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/192.42.116.175">192.42.116.175</a>
@@ -777,16 +752,41 @@
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/192.42.116.221">192.42.116.221</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/193.26.115.43">193.26.115.43</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/193.26.115.61">193.26.115.61</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/194.163.157.49">194.163.157.49</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/194.26.192.142">194.26.192.142</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/194.26.192.201">194.26.192.201</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/194.163.157.49">194.163.157.49</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/195.176.3.23">195.176.3.23</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/195.176.3.24">195.176.3.24</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/198.251.88.142">198.251.88.142</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/198.98.48.20">198.98.48.20</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/198.98.49.203">198.98.49.203</a>
-    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/198.251.88.142">198.251.88.142</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/2.56.119.93">2.56.119.93</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/2.56.164.52">2.56.164.52</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/2.58.56.37">2.58.56.37</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/207.244.71.79">207.244.71.79</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/23.128.248.10">23.128.248.10</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/23.137.251.61">23.137.251.61</a>
     <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/2a0b:f4c2:1::1">2a0b:f4c2:1::1</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/37.120.153.229">37.120.153.229</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/38.97.116.244">38.97.116.244</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.134.225.36">45.134.225.36</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.138.16.230">45.138.16.230</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.138.16.42">45.138.16.42</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.141.215.169">45.141.215.169</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.141.215.235">45.141.215.235</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.141.215.80">45.141.215.80</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.50.119.182">45.50.119.182</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/45.61.185.38">45.61.185.38</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/47.176.132.82">47.176.132.82</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/50.212.34.202">50.212.34.202</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/51.89.153.112">51.89.153.112</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/67.149.255.87">67.149.255.87</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/69.167.7.45">69.167.7.45</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/70.231.44.160">70.231.44.160</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/73.155.145.31">73.155.145.31</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/76.137.199.242">76.137.199.242</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/77.68.20.217">77.68.20.217</a>
+    <a class="col-12 col-xl-2 col-lg-3 col-md-4 col-sm-6" href="/en/high-risk-ip-sample/78.142.18.219">78.142.18.219</a>
 </p>
 
 
@@ -803,7 +803,7 @@
       <div class="row footer__body">
         <div class="col-md-3 footer__brand">
           <a class="footer__logo" href="home">
-            <img class="footer__logo-svg" alt="MaxMind Footer Logo" src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/maxmind-footer-logo.svg">
+            <img class="footer__logo-svg" alt="MaxMind Footer Logo" src="https://static.maxmind.com/2fd6c96f584def765df5/images/maxmind-footer-logo.svg">
           </a>
           <div class="footer__social clearfix">
             <a class="footer__social-link" href="https://twitter.com/maxmind" target="_blank" rel="noopener" title="Twitter"><span class="bi bi-twitter"></span></a>
@@ -894,7 +894,7 @@
                           Your Privacy Choices
                         </a>
                         <span class="footer__ccpa">
-                          <img class="footer__ccpa-icon" alt="California Consumer Privacy Act (CCPA) Opt-Out Icon" src="https://static.maxmind.com/e44e0e28bdd157d20d45/images/icon-ccpa-opt-out.svg">
+                          <img class="footer__ccpa-icon" alt="California Consumer Privacy Act (CCPA) Opt-Out Icon" src="https://static.maxmind.com/2fd6c96f584def765df5/images/icon-ccpa-opt-out.svg">
                         </span>
                       </li>
                       <li class="footer__nav-item">
@@ -986,40 +986,40 @@
 </div>
 
 
-  <script nonce="jTo6TxCNQVW/qKLW9siu2g==" id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e32809b5-6032-4c2f-b1f9-63931adc0cc1"></script>
+  <script nonce="T0kEIvyvQZqjaElsNlxziw==" id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e32809b5-6032-4c2f-b1f9-63931adc0cc1"></script>
 
 
   <script
-    src="https://static.maxmind.com/e44e0e28bdd157d20d45/js/main.js"
+    src="https://static.maxmind.com/2fd6c96f584def765df5/js/main.js"
     integrity='sha256-07BbjKq8kJm9FZ6wCa/I9J7uAPlko5eH54b4vwkGVMs='
     crossorigin="anonymous"
-    nonce="jTo6TxCNQVW/qKLW9siu2g=="
+    nonce="T0kEIvyvQZqjaElsNlxziw=="
     type="module"
   ></script>
 
   <script
     async
-    src="https://static.maxmind.com/e44e0e28bdd157d20d45/js/global-privacy-control.js"
+    src="https://static.maxmind.com/2fd6c96f584def765df5/js/global-privacy-control.js"
     integrity='sha256-OvUYI9iPBdiicrtGztDzEtFNcmJ9uT+bLxKeJ4gSQMc='
     crossorigin="anonymous"
-    nonce="jTo6TxCNQVW/qKLW9siu2g=="
+    nonce="T0kEIvyvQZqjaElsNlxziw=="
     type="module"
   ></script>
 
-<script nonce="jTo6TxCNQVW/qKLW9siu2g==">
+<script nonce="T0kEIvyvQZqjaElsNlxziw==">
   window.MaxMind = window.MaxMind || {};
   window.MaxMind.isSandboxEnvironment = false;
 </script>
 
 
-<script nonce="jTo6TxCNQVW/qKLW9siu2g==">
+<script nonce="T0kEIvyvQZqjaElsNlxziw==">
   (function() {
     var mmapiws = window.__mmapiws = window.__mmapiws || {};
     mmapiws.accountId = 10;
     var loadDeviceJs = function() {
       var element = document.createElement('script');
       element.async = true;
-      element.src = "https:\/\/static.maxmind.com\/e44e0e28bdd157d20d45\/js\/device.js";
+      element.src = "https:\/\/static.maxmind.com\/2fd6c96f584def765df5\/js\/device.js";
       element.crossOrigin = 'anonymous';
       element.integrity = 'sha256-2SA2OvPo+E6cbpl99PatwszDGPrPAFEjwzyxQ10qjyY=';
       document.body.appendChild(element);
