@@ -17,10 +17,10 @@
         href="https://static.maxmind.com/63e90414cefc66cce8c0/css/main.css"
         integrity='sha256-H8zz4FOok2NUssS7vZq0RabEQxEmvFffQLho0ib1dKs='
         crossorigin="anonymous"
-        nonce="v2jlIUliRe+FvrUTH4/vWg=="
+        nonce="s5mVccjYQfSBd4UAVneFFQ=="
       >
     <!-- Push to the dataLayer _before_ loading Google Tag Manager -->
-    <script nonce="v2jlIUliRe+FvrUTH4/vWg==">
+    <script nonce="s5mVccjYQfSBd4UAVneFFQ==">
       var dataLayer = window.dataLayer || [];
 
       
@@ -37,7 +37,7 @@
     
       <!-- Google Tag Manager -->
       <script
-        nonce="v2jlIUliRe+FvrUTH4/vWg=="
+        nonce="s5mVccjYQfSBd4UAVneFFQ=="
       >
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
@@ -905,7 +905,7 @@
             <nav class="footer__legal-nav text-center">
               <div class="row">
                 <div class="col-lg-9 mt-2">
-                  <span class="footer__legal-copyright">&copy; 2023 MaxMind, Inc. MaxMind, GeoIP, minFraud, and related trademarks belong to MaxMind, Inc.</span>
+                  <span class="footer__legal-copyright">&copy; 2024 MaxMind, Inc. MaxMind, GeoIP, minFraud, and related trademarks belong to MaxMind, Inc.</span>
                 </div>
                 <div class="col-lg-3 mt-2">
                 <a class="footer__legal-link" href="terms-of-use">Terms of Use</a>
@@ -923,14 +923,14 @@
 
 
   <!-- HubSpot -->
-  <script type="text/javascript" nonce="v2jlIUliRe+FvrUTH4/vWg==" id="hs-script-loader" async defer src="//js.hs-scripts.com/21266834.js"></script>
+  <script type="text/javascript" nonce="s5mVccjYQfSBd4UAVneFFQ==" id="hs-script-loader" async defer src="//js.hs-scripts.com/21266834.js"></script>
 
 
   <script
     src="https://static.maxmind.com/63e90414cefc66cce8c0/js/main.js"
     integrity='sha256-cVnT66u+AFT6IcbCtyF86wG71S8/EWxqmLyRHB9DQ2s='
     crossorigin="anonymous"
-    nonce="v2jlIUliRe+FvrUTH4/vWg=="
+    nonce="s5mVccjYQfSBd4UAVneFFQ=="
     type="module"
   ></script>
 
@@ -939,11 +939,11 @@
     src="https://static.maxmind.com/63e90414cefc66cce8c0/js/global-privacy-control.js"
     integrity='sha256-HdllIV7hetrcvCgQDCCUvHAlRBUH6QDBMDnjyt+5Vyw='
     crossorigin="anonymous"
-    nonce="v2jlIUliRe+FvrUTH4/vWg=="
+    nonce="s5mVccjYQfSBd4UAVneFFQ=="
     type="module"
   ></script>
 
-<script nonce="v2jlIUliRe+FvrUTH4/vWg==">
+<script nonce="s5mVccjYQfSBd4UAVneFFQ==">
   window.MaxMind = window.MaxMind || {};
   
   window.MaxMind.isSandboxEnvironment = false;
@@ -951,7 +951,7 @@
 </script>
 
 
-<script nonce="v2jlIUliRe+FvrUTH4/vWg==">
+<script nonce="s5mVccjYQfSBd4UAVneFFQ==">
   (function() {
     var mmapiws = window.__mmapiws = window.__mmapiws || {};
     mmapiws.accountId = 10;
