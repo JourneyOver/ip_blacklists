@@ -16,14 +16,14 @@
         media="all"
         rel="stylesheet"
         type="text/css"
-        href="https://static.maxmind.com/9b0a65bd7daa9a5878bc/css/main.css"
-        integrity='sha256-7NBDMZzaIifY5fY09QggTzWv0vyJuNtGQWo4grqkopc='
+        href="https://static.maxmind.com/3baf61a0f476b13e59df/css/main.css"
+        integrity='sha256-CtL3jMwhMQQDR/Uv73zq6ANwCmCBjqf73Cs4KTQceXo='
         crossorigin="anonymous"
-        nonce="wirTWanJTmahdA4Mf1cjmQ=="
+        nonce="CT8/o2yCQwKoi5eqUE6XoQ=="
       >
     <!-- Push to the dataLayer _before_ loading Google Tag Manager -->
     
-      <script nonce="wirTWanJTmahdA4Mf1cjmQ==">
+      <script nonce="CT8/o2yCQwKoi5eqUE6XoQ==">
         var dataLayer = window.dataLayer || [];
 
         
@@ -34,7 +34,7 @@
     
 
     <!-- Google Tag Manager -->
-            <script nonce="wirTWanJTmahdA4Mf1cjmQ==">
+            <script nonce="CT8/o2yCQwKoi5eqUE6XoQ==">
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
           w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
@@ -123,25 +123,15 @@
               
               <li class="utility-nav__item ">
               
-                <a
+                
                   
-                  class="utility-nav__link "
-                  
-                  
-                  
-                    href="account/login"
-                  
-                  
-                  title="Account"
-                >
-                  
-                    
+                    <a href="account/login" class="utility-nav__link" title="Account">
                       <span class="bi bi-person-circle mm-icon mm-icon__logged-out" title="Account" role="img">
                       </span>
                       <span class="utility-nav__label">Sign In</span>
-                    
+                    </a>
                   
-                </a>
+                
                 <!-- Logged-in -->
                 
                 
@@ -169,16 +159,15 @@
       <nav class="main-nav">
         <ul class="main-nav__list navbar-nav">
           <li class="main-nav__item js-main-nav__item dropdown">
-            <a
+            <button
               aria-haspopup="true"
               class="main-nav__link js-main-nav__link dropdown-toggle"
-              href="#"
-              role="button"
               data-bs-toggle="dropdown"
               aria-expanded="false"
+              disabled
             >
               Products
-            </a>
+            </button>
             <div class="main-nav__dropdown-menu dropdown-menu row">
               <div class="main-nav__subnav-group col-md-4">
                 <div class="main-nav__subnav-item row">
@@ -187,7 +176,7 @@
                       <a href="solutions/minfraud-services">
                         <img
                           alt="An ecommerce website and a shopping cart on a tablet"
-                          src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/redesign/fraud-prevention-main-navigation-icon.svg"
+                          src="https://static.maxmind.com/3baf61a0f476b13e59df/images/redesign/fraud-prevention-main-navigation-icon.svg"
                           height="149"
                           width="144"
                         />
@@ -207,7 +196,7 @@
                       <a href="solutions/ip-geolocation-databases-api-services">
                         <img
                           alt="Online users around the globe accessing ecommerce and streaming services with map pins to indicate users' specific location"
-                          src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/redesign/ip-geolocation-and-intelligence-main-navigation-icon.svg"
+                          src="https://static.maxmind.com/3baf61a0f476b13e59df/images/redesign/ip-geolocation-and-intelligence-main-navigation-icon.svg"
                           height="158"
                           width="135"
                         />
@@ -227,7 +216,7 @@
                       <a href="solutions/proxy-vpn-fraud-detection">
                         <img
                           alt="A computer monitor with green and red IP addresses, detecting anonymous IPs, and managing access"
-                          src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/redesign/proxy-detection-main-navigation-icon.svg"
+                          src="https://static.maxmind.com/3baf61a0f476b13e59df/images/redesign/proxy-detection-main-navigation-icon.svg"
                           height="133"
                           width="151"
                         />
@@ -243,16 +232,15 @@
             </div>
           </li>
           <li class="main-nav__item js-main-nav__item dropdown">
-            <a
+            <button
               aria-haspopup="true"
               class="main-nav__link js-main-nav__link dropdown-toggle"
-              href="#"
-              role="button"
               data-bs-toggle="dropdown"
               aria-expanded="false"
+              disabled
             >
               Resources
-            </a>
+            </button>
             <div class="main-nav__dropdown-menu dropdown-menu row">
               <div class="main-nav__subnav-group col-md-3">
                 <div class="main-nav__subnav-item row">
@@ -260,7 +248,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--small">
                       <img
                         alt="Support main navigation icon"
-                        src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/redesign/support-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/3baf61a0f476b13e59df/images/redesign/support-main-navigation-icon.svg"
                         height="60"
                         width="63"
                       />
@@ -288,7 +276,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--small">
                       <img
                         alt="Learning main navigation icon"
-                        src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/redesign/learning-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/3baf61a0f476b13e59df/images/redesign/learning-main-navigation-icon.svg"
                         height="60"
                         width="51"
                       />
@@ -321,7 +309,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--small">
                       <img
                         alt="Developers main navigation icon"
-                        src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/redesign/developers-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/3baf61a0f476b13e59df/images/redesign/developers-main-navigation-icon.svg"
                         height="65"
                         width="73"
                       />
@@ -346,7 +334,7 @@
                     <div class="main-nav__subnav-image main-nav__subnav-image--small">
                       <img
                         alt="Legal main navigation icon"
-                        src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/redesign/legal-main-navigation-icon.svg"
+                        src="https://static.maxmind.com/3baf61a0f476b13e59df/images/redesign/legal-main-navigation-icon.svg"
                         height="65"
                         width="59"
                       />
@@ -374,16 +362,15 @@
             </div>
           </li>
           <li class="main-nav__item js-main-nav__item dropdown">
-            <a
+            <button
               aria-haspopup="true"
               class="main-nav__link js-main-nav__link dropdown-toggle"
-              href="#"
-              role="button"
               data-bs-toggle="dropdown"
               aria-expanded="false"
+              disabled
             >
               Company
-            </a>
+            </button>
             <div class="main-nav__dropdown-menu dropdown-menu">
               <div class="main-nav__subnav-group col-md-3">
                 <div class="main-nav__subnav-item row">
@@ -392,7 +379,7 @@
                       <a href="company">
                         <img
                           alt="About is main navigation icon"
-                          src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/redesign/about-us-main-navigation-icon.svg"
+                          src="https://static.maxmind.com/3baf61a0f476b13e59df/images/redesign/about-us-main-navigation-icon.svg"
                           height="62"
                           width="62"
                         />
@@ -411,7 +398,7 @@
                       <a href="company/commitment-to-security">
                         <img
                           alt="Commitment to security main navigation icon"
-                          src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/redesign/commitment-to-security-main-navigation-icon.svg"
+                          src="https://static.maxmind.com/3baf61a0f476b13e59df/images/redesign/commitment-to-security-main-navigation-icon.svg"
                           height="62"
                           width="65"
                         />
@@ -430,7 +417,7 @@
                       <a href="company/working-at-maxmind">
                         <img
                           alt="Working at MaxMind main navigation icon"
-                          src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/redesign/working-at-maxmind-main-navigation-icon.svg"
+                          src="https://static.maxmind.com/3baf61a0f476b13e59df/images/redesign/working-at-maxmind-main-navigation-icon.svg"
                           height="62"
                           width="62"
                         />
@@ -449,7 +436,7 @@
                       <a href="company/contact-us">
                         <img
                           alt="Contact us main navigation icon"
-                          src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/redesign/contact-us-main-navigation-icon.svg"
+                          src="https://static.maxmind.com/3baf61a0f476b13e59df/images/redesign/contact-us-main-navigation-icon.svg"
                           height="62"
                           width="62"
                         />
@@ -469,15 +456,14 @@
 
     <!-- Search -->
     <div class="utility-nav__item utility-nav__item--search dropdown">
-      <a
+      <button
         data-bs-toggle="dropdown"
-        class="utility-nav__link utility-nav__link--search js-utility-nav__link--search dropdown-toggle"
-        href="#"
-        role="button"
+        class="utility-nav__link js-utility-nav__link utility-nav__link--search js-utility-nav__link--search dropdown-toggle"
+        disabled
       >
         <span class="bi bi-search mm-icon mm-icon__search utility-nav__icon-search" role="presentation">
         </span>
-      </a>
+      </button>
       <div class="utility-nav__subnav utility-nav__subnav--search dropdown-menu dropdown-menu-end">
         <form method="get" action="search">
             <div class="header__search">
@@ -732,7 +718,7 @@
       <div class="row footer__body">
         <div class="col-md-3 footer__brand">
           <a class="footer__logo" href="home">
-            <img class="footer__logo-svg" alt="MaxMind Footer Logo" src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/maxmind-footer-logo.svg">
+            <img class="footer__logo-svg" alt="MaxMind Footer Logo" src="https://static.maxmind.com/3baf61a0f476b13e59df/images/maxmind-footer-logo.svg">
           </a>
           <div class="footer__social clearfix">
             <a class="footer__social-link" href="https://twitter.com/maxmind" target="_blank" rel="noopener" title="Twitter"><span class="bi bi-twitter"></span></a>
@@ -823,7 +809,7 @@
                           Your Privacy Choices
                         </a>
                         <span class="footer__ccpa">
-                          <img class="footer__ccpa-icon" alt="California Consumer Privacy Act (CCPA) Opt-Out Icon" src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/images/icon-ccpa-opt-out.svg">
+                          <img class="footer__ccpa-icon" alt="California Consumer Privacy Act (CCPA) Opt-Out Icon" src="https://static.maxmind.com/3baf61a0f476b13e59df/images/icon-ccpa-opt-out.svg">
                         </span>
                       </li>
                       <li class="footer__nav-item">
@@ -916,27 +902,27 @@
 
 <!-- HubSpot -->
 
-  <script type="text/javascript" nonce="wirTWanJTmahdA4Mf1cjmQ==" id="hs-script-loader" async defer src="//js.hs-scripts.com/21266834.js"></script>
+  <script type="text/javascript" nonce="CT8/o2yCQwKoi5eqUE6XoQ==" id="hs-script-loader" async defer src="//js.hs-scripts.com/21266834.js"></script>
 
 
   <script
-    src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/js/main.js"
-    integrity='sha256-fcome2eFwxkdKUmFfD1nlEI5oHCSqSMyNFjClWs5YKg='
+    src="https://static.maxmind.com/3baf61a0f476b13e59df/js/main.js"
+    integrity='sha256-I67DPV4AOV3TPy/1QhAcr3XYj9VsytOWQiNaiVQePBQ='
     crossorigin="anonymous"
-    nonce="wirTWanJTmahdA4Mf1cjmQ=="
+    nonce="CT8/o2yCQwKoi5eqUE6XoQ=="
     type="module"
   ></script>
 
   <script
     async
-    src="https://static.maxmind.com/9b0a65bd7daa9a5878bc/js/global-privacy-control.js"
+    src="https://static.maxmind.com/3baf61a0f476b13e59df/js/global-privacy-control.js"
     integrity='sha256-m1Opb2OuWbgMHaZM7sK80QzaQjvApeiIFN8ctKhEmsQ='
     crossorigin="anonymous"
-    nonce="wirTWanJTmahdA4Mf1cjmQ=="
+    nonce="CT8/o2yCQwKoi5eqUE6XoQ=="
     type="module"
   ></script>
 
-<script nonce="wirTWanJTmahdA4Mf1cjmQ==">
+<script nonce="CT8/o2yCQwKoi5eqUE6XoQ==">
   (function() {
     var mmapiws = window.__mmapiws = window.__mmapiws || {};
     mmapiws.accountId = 10;
