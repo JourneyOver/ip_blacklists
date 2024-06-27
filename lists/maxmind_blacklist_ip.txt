@@ -23,11 +23,11 @@
       href="https://static.maxmind.com/c7eb9d4253e062ae7c8f/css/main.css"
       integrity="sha256-VajdaXRieGlvpswkgnD9G&#43;P79m5hF2/f7VEMy/9917g="
       crossorigin="anonymous"
-      nonce="F3vOuf30FTtD0iv_0P-OLg=="
+      nonce="_ujHmuKxUgbkz6Gb7fpsKA=="
     />
     
 
-    <script nonce="F3vOuf30FTtD0iv_0P-OLg==">
+    <script nonce="_ujHmuKxUgbkz6Gb7fpsKA==">
           var dataLayer = window.dataLayer || [];
           
           
@@ -35,7 +35,7 @@
 
 
     
-    <script nonce="F3vOuf30FTtD0iv_0P-OLg==">
+    <script nonce="_ujHmuKxUgbkz6Gb7fpsKA==">
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
           w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
@@ -621,7 +621,55 @@
                   <aside id="sidebar">
                     
                     <ul class="left-nav">
-                      
+                      <li>
+                          <h2 class="left-nav__header">IP Geolocation and Intelligence</h2>
+                        </li>
+                        <li class="left-nav__item js-left-nav__hasLink">
+                            <a
+                              class="left-nav__link "
+                              href="geoip-api-web-services"
+                              >GeoIP web services</a
+                            >
+                          </li><li class="left-nav__item js-left-nav__hasLink">
+                            <a
+                              class="left-nav__link "
+                              href="geoip-databases"
+                              >GeoIP databases</a
+                            >
+                          </li><li class="left-nav__item js-left-nav__hasLink">
+                            <a
+                              class="left-nav__link "
+                              href="geoip-anonymous-ip-database"
+                              >GeoIP Anonymous IP (proxy detection) database</a
+                            >
+                          </li><li class="left-nav__item js-left-nav__hasLink">
+                            <a
+                              class="left-nav__link "
+                              href="solutions/geoip2-enterprise-product-suite/enterprise-database"
+                              >GeoIP Enterprise database</a
+                            >
+                          </li><li>
+                          <h2 class="left-nav__header">GeoIP Online Demos</h2>
+                        </li>
+                        <li class="left-nav__item js-left-nav__hasLink">
+                            <a
+                              class="left-nav__link "
+                              href="geoip2-precision-demo"
+                              >GeoIP web services demo</a
+                            >
+                          </li><li class="left-nav__item js-left-nav__hasLink">
+                            <a
+                              class="left-nav__link "
+                              href="geoip-demo"
+                              >GeoIP databases demo</a
+                            >
+                          </li><li class="left-nav__item js-left-nav__hasLink">
+                            <a
+                              class="left-nav__link "
+                              href="locate-my-ip-address"
+                              >Locate my IP address</a
+                            >
+                          </li>
                     </ul>
                   </aside>
                 </div>
@@ -1588,7 +1636,7 @@
 
     <script
         type="text/javascript"
-        nonce="F3vOuf30FTtD0iv_0P-OLg=="
+        nonce="_ujHmuKxUgbkz6Gb7fpsKA=="
         id="hs-script-loader"
         async
         defer
@@ -1600,7 +1648,7 @@
       src="https://static.maxmind.com/c7eb9d4253e062ae7c8f/js/main.js"
       integrity="sha256-I67DPV4AOV3TPy/1QhAcr3XYj9VsytOWQiNaiVQePBQ="
       crossorigin="anonymous"
-      nonce="F3vOuf30FTtD0iv_0P-OLg=="
+      nonce="_ujHmuKxUgbkz6Gb7fpsKA=="
       type="module"
     ></script>
 
@@ -1609,11 +1657,11 @@
       src="https://static.maxmind.com/c7eb9d4253e062ae7c8f/js/global-privacy-control.js"
       integrity="sha256-m1Opb2OuWbgMHaZM7sK80QzaQjvApeiIFN8ctKhEmsQ="
       crossorigin="anonymous"
-      nonce="F3vOuf30FTtD0iv_0P-OLg=="
+      nonce="_ujHmuKxUgbkz6Gb7fpsKA=="
       type="module"
     ></script>
 
-    <script nonce="F3vOuf30FTtD0iv_0P-OLg==">
+    <script nonce="_ujHmuKxUgbkz6Gb7fpsKA==">
       (function () {
         var mmapiws = (window.__mmapiws = window.__mmapiws || {});
         mmapiws.accountId = 10;
