@@ -20,14 +20,14 @@
       media="all"
       rel="stylesheet"
       type="text/css"
-      href="https://static.maxmind.com/ecba89ab034c9a54cf0b/css/main.css"
-      integrity="sha256-u8Zku9ACqdMYMFjJZ&#43;dJPK4/jaTj0HdRmCIPHB/PHik="
+      href="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/css/main.css"
+      integrity="sha256-4h9moqAAsFrUAvpqB2IjjLsXRI9XrO5&#43;Wde5ifqI4LA="
       crossorigin="anonymous"
-      nonce="3q6dp2XIljVS7_gbfpCFYA=="
+      nonce="dBx12z0FubTmWJghrbqPRA=="
     />
     
 
-    <script nonce="3q6dp2XIljVS7_gbfpCFYA==">
+    <script nonce="dBx12z0FubTmWJghrbqPRA==">
           var dataLayer = window.dataLayer || [];
           
           
@@ -35,7 +35,7 @@
 
 
     
-    <script nonce="3q6dp2XIljVS7_gbfpCFYA==">
+    <script nonce="dBx12z0FubTmWJghrbqPRA==">
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
           w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
@@ -179,7 +179,7 @@
                             <a href="solutions/minfraud-services">
                               <img
                                 alt="An ecommerce website and a shopping cart on a tablet"
-                                src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/redesign/fraud-prevention-main-navigation-icon.svg"
+                                src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/redesign/fraud-prevention-main-navigation-icon.svg"
                                 height="149"
                                 width="144"
                               />
@@ -210,7 +210,7 @@
                             >
                               <img
                                 alt="Online users around the globe accessing ecommerce and streaming services with map pins to indicate users' specific location"
-                                src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/redesign/ip-geolocation-and-intelligence-main-navigation-icon.svg"
+                                src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/redesign/ip-geolocation-and-intelligence-main-navigation-icon.svg"
                                 height="158"
                                 width="135"
                               />
@@ -239,7 +239,7 @@
                             <a href="solutions/proxy-vpn-fraud-detection">
                               <img
                                 alt="A computer monitor with green and red IP addresses, detecting anonymous IPs, and managing access"
-                                src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/redesign/proxy-detection-main-navigation-icon.svg"
+                                src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/redesign/proxy-detection-main-navigation-icon.svg"
                                 height="133"
                                 width="151"
                               />
@@ -280,7 +280,7 @@
                           >
                             <img
                               alt="Support main navigation icon"
-                              src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/redesign/support-main-navigation-icon.svg"
+                              src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/redesign/support-main-navigation-icon.svg"
                               height="60"
                               width="63"
                             />
@@ -317,7 +317,7 @@
                           >
                             <img
                               alt="Learning main navigation icon"
-                              src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/redesign/learning-main-navigation-icon.svg"
+                              src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/redesign/learning-main-navigation-icon.svg"
                               height="60"
                               width="51"
                             />
@@ -369,7 +369,7 @@
                           >
                             <img
                               alt="Developers main navigation icon"
-                              src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/redesign/developers-main-navigation-icon.svg"
+                              src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/redesign/developers-main-navigation-icon.svg"
                               height="65"
                               width="73"
                             />
@@ -401,7 +401,7 @@
                           >
                             <img
                               alt="Legal main navigation icon"
-                              src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/redesign/legal-main-navigation-icon.svg"
+                              src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/redesign/legal-main-navigation-icon.svg"
                               height="65"
                               width="59"
                             />
@@ -455,7 +455,7 @@
                             <a href="company">
                               <img
                                 alt="About is main navigation icon"
-                                src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/redesign/about-us-main-navigation-icon.svg"
+                                src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/redesign/about-us-main-navigation-icon.svg"
                                 height="62"
                                 width="62"
                               />
@@ -478,7 +478,7 @@
                             <a href="company/commitment-to-security">
                               <img
                                 alt="Commitment to security main navigation icon"
-                                src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/redesign/commitment-to-security-main-navigation-icon.svg"
+                                src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/redesign/commitment-to-security-main-navigation-icon.svg"
                                 height="62"
                                 width="65"
                               />
@@ -503,7 +503,7 @@
                             <a href="company/working-at-maxmind">
                               <img
                                 alt="Working at MaxMind main navigation icon"
-                                src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/redesign/working-at-maxmind-main-navigation-icon.svg"
+                                src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/redesign/working-at-maxmind-main-navigation-icon.svg"
                                 height="62"
                                 width="62"
                               />
@@ -528,7 +528,7 @@
                             <a href="company/contact-us">
                               <img
                                 alt="Contact us main navigation icon"
-                                src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/redesign/contact-us-main-navigation-icon.svg"
+                                src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/redesign/contact-us-main-navigation-icon.svg"
                                 height="62"
                                 width="62"
                               />
@@ -1320,38 +1320,11 @@
       
 
       <footer class="footer">
-        <div class="container container--footer">
-          <div class="row footer__body">
-            <div class="col-md-3 footer__brand">
-              <a class="footer__logo" href="home">
-                <img
-                  class="footer__logo-svg"
-                  alt="MaxMind Footer Logo"
-                  src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/maxmind-footer-logo.svg"
-                />
-              </a>
-              <div class="footer__social clearfix">
-                <a
-                  class="footer__social-link"
-                  href="https://twitter.com/maxmind"
-                  target="_blank"
-                  rel="noopener"
-                  title="Twitter"
-                  ><span class="bi bi-twitter"></span
-                ></a>
-                <a
-                  class="footer__social-link"
-                  href="https://www.linkedin.com/company/maxmind"
-                  target="_blank"
-                  rel="noopener"
-                  title="LinkedIn"
-                  ><span class="bi bi-linkedin"></span
-                ></a>
-              </div>
-            </div>
-            <nav class="col-md-9 footer__nav">
-              <div class="row">
-                <div class="col-sm-3">
+        <div class="footer__body">
+          <div class="footer__links row g-5">
+            <nav class="footer__nav col-md-8 col-lg-9">
+              <div class="row gy-3">
+                <div class="col-sm-6 col-lg-3">
                   <h4 class="footer__nav-heading">Products</h4>
                   <ul class="footer__nav-list">
                     <li class="footer__nav-item">
@@ -1359,15 +1332,17 @@
                         class="footer__nav-link"
                         href="solutions/minfraud-services"
                       >
-                        minFraud Services
+                        minFraud services
                       </a>
                     </li>
                     <li class="footer__nav-item">
-                      <a
-                        class="footer__nav-link"
-                        href="solutions/geoip2-enterprise-product-suite/commercial-licensing"
-                      >
-                        GeoIP2 Commercial Licensing
+                      <a class="footer__nav-link" href="geoip-api-web-services">
+                        GeoIP web services
+                      </a>
+                    </li>
+                    <li class="footer__nav-item">
+                      <a class="footer__nav-link" href="geoip-databases">
+                        GeoIP databases
                       </a>
                     </li>
                     <li class="footer__nav-item">
@@ -1375,7 +1350,7 @@
                         class="footer__nav-link"
                         href="solutions/geoip2-enterprise-product-suite/anonymous-ip-database"
                       >
-                        GeoIP2 Anonymous IP Database
+                        GeoIP Anonymous IP database
                       </a>
                     </li>
                     <li class="footer__nav-item">
@@ -1383,20 +1358,7 @@
                         class="footer__nav-link"
                         href="solutions/geoip2-enterprise-product-suite/enterprise-database"
                       >
-                        GeoIP2 Enterprise Database
-                      </a>
-                    </li>
-                    <li class="footer__nav-item">
-                      <a
-                        class="footer__nav-link"
-                        href="geoip2-precision-services"
-                      >
-                        GeoIP2 Web Services
-                      </a>
-                    </li>
-                    <li class="footer__nav-item">
-                      <a class="footer__nav-link" href="geoip2-databases">
-                        GeoIP2 Databases
+                        GeoIP Enterprise database
                       </a>
                     </li>
                     <li class="footer__nav-item">
@@ -1404,41 +1366,28 @@
                         class="footer__nav-link"
                         href="https://dev.maxmind.com/geoip/geolite2-free-geolocation-data"
                       >
-                        GeoLite2 Free Geolocation Data
-                      </a>
-                    </li>
-                    <li class="footer__nav-item">
-                      <a class="footer__nav-link" href="affiliate-program">
-                        Affiliate Program
+                        GeoLite free geolocation data
                       </a>
                     </li>
                   </ul>
                 </div>
-                <div class="col-sm-3">
-                  <h4 class="footer__nav-heading">Support</h4>
+                <div class="col-sm-6 col-lg-3">
+                  <h4 class="footer__nav-heading">Resources</h4>
                   <ul class="footer__nav-list">
                     <li class="footer__nav-item">
                       <a
                         class="footer__nav-link"
                         href="https://support.maxmind.com/hc/en-us/"
                       >
-                        Knowledge Base
+                        Knowledge base
                       </a>
                     </li>
                     <li class="footer__nav-item">
                       <a
                         class="footer__nav-link"
-                        href="https://support.maxmind.com/hc/en-us/categories/1260801482329-minFraud-Web-Services"
+                        href="geoip-web-services-demo"
                       >
-                        minFraud
-                      </a>
-                    </li>
-                    <li class="footer__nav-item">
-                      <a
-                        class="footer__nav-link"
-                        href="https://support.maxmind.com/hc/en-us/categories/1260801446650-GeoIP2-and-GeoLite2"
-                      >
-                        GeoIP
+                        GeoIP demo
                       </a>
                     </li>
                     <li class="footer__nav-item">
@@ -1446,14 +1395,11 @@
                         class="footer__nav-link"
                         href="https://status.maxmind.com/"
                       >
-                        System Status
+                        System status
                       </a>
                       <span class="footer__system-status">
                         <i
                           class="bi bi-exclamation-triangle-fill status-icon status-icon__warning"
-                        ></i>
-                        <i
-                          class="bi bi-check-circle-fill status-icon status-icon__operational"
                         ></i>
                       </span>
                     </li>
@@ -1462,18 +1408,18 @@
                         class="footer__nav-link"
                         href="geoip-data-correction-request"
                       >
-                        GeoIP Data Correction Request
+                        Submit a data correction
                       </a>
                     </li>
                     <li class="footer__nav-item">
                       <a class="footer__nav-link" href="opt-out">
-                        Your Privacy Choices
+                        Your privacy choices
                       </a>
                       <span class="footer__ccpa">
                         <img
                           class="footer__ccpa-icon"
                           alt="California Consumer Privacy Act (CCPA) Opt-Out Icon"
-                          src="https://static.maxmind.com/ecba89ab034c9a54cf0b/images/icon-ccpa-opt-out.svg"
+                          src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/icon-ccpa-opt-out.svg"
                         />
                       </span>
                     </li>
@@ -1482,12 +1428,12 @@
                         class="footer__nav-link"
                         href="/en/privacy-policy#california-notice-of-collection"
                       >
-                        Notice of Collection
+                        Notice of collection
                       </a>
                     </li>
                   </ul>
                 </div>
-                <div class="col-sm-3">
+                <div class="col-sm-6 col-lg-3">
                   <h4 class="footer__nav-heading">Developers</h4>
                   <ul class="footer__nav-list">
                     <li class="footer__nav-item">
@@ -1495,33 +1441,17 @@
                         class="footer__nav-link"
                         href="https://dev.maxmind.com"
                       >
-                        Developer Portal
-                      </a>
-                    </li>
-                    <li class="footer__nav-item">
-                      <a
-                        class="footer__nav-link"
-                        href="https://dev.maxmind.com/minfraud"
-                      >
-                        minFraud
-                      </a>
-                    </li>
-                    <li class="footer__nav-item">
-                      <a
-                        class="footer__nav-link"
-                        href="https://dev.maxmind.com/geoip"
-                      >
-                        GeoIP
+                        Developer portal
                       </a>
                     </li>
                     <li class="footer__nav-item">
                       <a class="footer__nav-link" href="affiliate-program">
-                        Affiliate Program
+                        Affiliate program
                       </a>
                     </li>
                   </ul>
                 </div>
-                <div class="col-sm-3">
+                <div class="col-sm-6 col-lg-3">
                   <h4 class="footer__nav-heading">Company</h4>
                   <ul class="footer__nav-list">
                     <li class="footer__nav-item">
@@ -1542,42 +1472,99 @@
                         class="footer__nav-link"
                         href="company/commitment-to-security"
                       >
-                        Commitment to Security
+                        Commitment to security
                       </a>
                     </li>
                     <li class="footer__nav-item">
                       <a class="footer__nav-link" href="company/contact-us">
-                        Contact Us
+                        Contact us
                       </a>
                     </li>
                   </ul>
+                  <div class="footer__social">
+                    <a
+                      class="footer__social-link"
+                      href="https://twitter.com/maxmind"
+                      target="_blank"
+                      rel="noopener"
+                      title="MaxMind's X (formerly Twitter) profile"
+                      ><span
+                        aria-hidden="true"
+                        class="bi bi-twitter-x text-black"
+                      ></span
+                    ></a>
+                    <a
+                      class="footer__social-link"
+                      href="https://www.linkedin.com/company/maxmind"
+                      target="_blank"
+                      rel="noopener"
+                      title="MaxMind's LinkedIn profile"
+                      ><span aria-hidden="true" class="bi bi-linkedin"></span
+                    ></a>
+                  </div>
                 </div>
               </div>
             </nav>
-          </div>
+            <div
+              class="footer__newsletter col-md-4 col-lg-3 d-lg-flex justify-content-lg-end"
+            >
+              <div>
+                <h5 class="footer__nav-heading">Insights in your inbox</h5>
+                <p>
+                  Join thousands of data professionals. <br />
+                  Sign up for exclusive content.
+                </p>
 
-          <div class="footer__legal">
-            <div class="row">
-              <div class="offset-md-3 col">
-                <nav class="footer__legal-nav text-center">
-                  <div class="row">
-                    <div class="col-lg-9 mt-2">
-                      <span class="footer__legal-copyright"
-                        >&copy; 2024 MaxMind, Inc. MaxMind, GeoIP, minFraud, and
-                        related trademarks belong to MaxMind, Inc.</span
-                      >
-                    </div>
-                    <div class="col-lg-3 mt-2">
-                      <a class="footer__legal-link" href="terms-of-use"
-                        >Terms of Use</a
-                      >
-                      <span class="footer__legal-divider">|</span>
-                      <a class="footer__legal-link" href="privacy-policy"
-                        >Privacy Policy</a
-                      >
-                    </div>
+                <script
+                  nonce="dBx12z0FubTmWJghrbqPRA=="
+                  charset="utf-8"
+                  type="text/javascript"
+                  src="//js.hsforms.net/forms/embed/v2.js"
+                ></script>
+                <script nonce="dBx12z0FubTmWJghrbqPRA==">
+                  hbspt.forms.create({
+                    region: "na1",
+                    portalId: "21266834",
+                    formId: "3e92e169-496d-4be7-95f2-44052278f132",
+                  });
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="footer__legal">
+          <div class="row gy-3 align-items-center">
+            <div class="col-lg-9 col-sm-6">
+              <div class="row gy-3">
+                <div class="footer__legal-trademarks col-lg-9">
+                  <div>
+                    &copy; 2024 MaxMind, Inc. MaxMind, GeoIP, minFraud, and
+                    related trademarks belong to MaxMind, Inc.
                   </div>
-                </nav>
+                </div>
+                <div class="col-lg-3">
+                  <div class="footer__legal-links">
+                    <a class="footer__legal-link" href="terms-of-use"
+                      >Terms of Use</a
+                    >
+                    <span class="footer__legal-divider">|</span>
+                    <a class="footer__legal-link" href="privacy-policy"
+                      >Privacy Policy</a
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 d-flex justify-content-md-end">
+              <div class="footer__legal-logo">
+                <a class="footer__logo" href="home">
+                  <img
+                    class="footer__logo-svg"
+                    alt="MaxMind's footer logo"
+                    src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/images/maxmind-header-logo-compact-alt.svg"
+                  />
+                </a>
               </div>
             </div>
           </div>
@@ -1589,7 +1576,7 @@
 
     <script
         type="text/javascript"
-        nonce="3q6dp2XIljVS7_gbfpCFYA=="
+        nonce="dBx12z0FubTmWJghrbqPRA=="
         id="hs-script-loader"
         async
         defer
@@ -1598,23 +1585,23 @@
 
 
     <script
-      src="https://static.maxmind.com/ecba89ab034c9a54cf0b/js/main.js"
-      integrity="sha256-FjU5OUxDfhCwYfojiR5iWf4qbzu2zF3pedU6ahDk954="
+      src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/js/main.js"
+      integrity="sha256-os/Lh4djw9FBQyD0XVyPmwt3YDZeyK1u49mBGdyib6Y="
       crossorigin="anonymous"
-      nonce="3q6dp2XIljVS7_gbfpCFYA=="
+      nonce="dBx12z0FubTmWJghrbqPRA=="
       type="module"
     ></script>
 
     <script
       async
-      src="https://static.maxmind.com/ecba89ab034c9a54cf0b/js/global-privacy-control.js"
+      src="https://static.maxmind.com/5bc7b6eb3b7dde4c6fc6/js/global-privacy-control.js"
       integrity="sha256-3gmTNXKhwWoKc1MU/Kdufhv7bMdqKwcN8yTzDpIIAHM="
       crossorigin="anonymous"
-      nonce="3q6dp2XIljVS7_gbfpCFYA=="
+      nonce="dBx12z0FubTmWJghrbqPRA=="
       type="module"
     ></script>
 
-    <script nonce="3q6dp2XIljVS7_gbfpCFYA==">
+    <script nonce="dBx12z0FubTmWJghrbqPRA==">
       (function () {
         var mmapiws = (window.__mmapiws = window.__mmapiws || {});
         mmapiws.accountId = 10;
