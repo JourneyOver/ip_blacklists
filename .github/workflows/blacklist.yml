@@ -8,28 +8,61 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+
+    env:
+      OUTPUT_DIR: lists
+      COMBINED_FILE: combined_blacklists.txt
+      NGINX_CONF: nginx_blacklist.conf
+
     steps:
-    - name: Checkout
+    - name: Checkout repository
       uses: actions/checkout@main
-    - name: Fetch
+
+    - name: Create output directory
+      run: mkdir -p ${{ env.OUTPUT_DIR }}
+
+    - name: Fetch AbuseIPDB blacklist
       run: |
-        curl -G "https://api.abuseipdb.com/api/v2/blacklist" -d confidenceMinimum=85 -d limit=9999999 -d plaintext -H "Key: ${{ secrets.ABUSEIPDB_TOKEN }}" -H "Accept: text/plain" > lists/abuseipdb_blacklist_ip_score_85.txt
-        curl "https://blackip.ustc.edu.cn/list.php?txt" -H "Accept: text/plain" > lists/ustc_blacklist_ip.txt
-        curl "https://www.projecthoneypot.org/list_of_ips.php?t=d&rss=1" -H "Accept: text/plain" > lists/projecthoneypot_blacklist_ip.txt
-        curl "https://check.torproject.org/torbulkexitlist?ip=1.1.1.1" -H "Accept: text/plain" > lists/torproject_blacklist_ip.txt
-        curl "https://www.maxmind.com/en/high-risk-ip-sample-list" -H "Accept: text/plain" > lists/maxmind_blacklist_ip.txt
-        curl "https://danger.rulez.sk/projects/bruteforceblocker/blist.php" -H "Accept: text/plain" > lists/bruteforceblocker_blacklist_ip.txt
-        curl "https://www.spamhaus.org/drop/drop.lasso" -H "Accept: text/plain" > lists/spamhaus_blacklist_ip.txt
-        curl "http://cinsscore.com/list/ci-badguys.txt" -H "Accept: text/plain" > lists/ci-badguys_blacklist_ip.txt
-        curl "http://blocklist.greensnow.co/greensnow.txt" -H "Accept: text/plain" > lists/greensnow_blacklist_ip.txt
-        curl "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset" -H "Accept: text/plain" > lists/firehol_level1_blacklist_ip.txt
-        curl "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_7d.ipset" -H "Accept: text/plain" > lists/stopforumspam_7d_blacklist_ip.txt
-        curl "https://rules.emergingthreats.net/blockrules/compromised-ips.txt" -H "Accept: text/plain" > lists/emergingthreats_compromised_ips_blacklist_ip.txt
-        curl "https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt" -H "Accept: text/plain" > lists/emergingthreats_emerging_Block_IPs_blocklist_ip.txt
-        for F in `ls *.txt`;do echo "">> $F; done
-        cat lists/*.txt|grep -Po "(?:\d{1,3}\.){3}\d{1,3}(?:/\d{1,2})?"|sort|uniq > combined_blacklists.txt
-        sed -e 's/^858.5.5.5//' -e '/^$/d' -e 's/^.*/deny &;/' combined_blacklists.txt > nginx_blacklist.conf
-    - name: Push changes
+        curl -s -G "https://api.abuseipdb.com/api/v2/blacklist" \
+          -d confidenceMinimum=85 \
+          -d limit=9999999 \
+          -d plaintext \
+          -H "Key: ${{ secrets.ABUSEIPDB_TOKEN }}" \
+          -H "Accept: text/plain" \
+          -o ${{ env.OUTPUT_DIR }}/abuseipdb_blacklist_ip_score_85.txt
+
+    - name: Fetch other IP blacklists
+      run: |
+        declare -A SOURCES=(
+          ["ustc_blacklist_ip.txt"]="https://blackip.ustc.edu.cn/list.php?txt"
+          ["projecthoneypot_blacklist_ip.txt"]="https://www.projecthoneypot.org/list_of_ips.php?t=d&rss=1"
+          ["torproject_blacklist_ip.txt"]="https://check.torproject.org/torbulkexitlist?ip=1.1.1.1"
+          ["maxmind_blacklist_ip.txt"]="https://www.maxmind.com/en/high-risk-ip-sample-list"
+          ["bruteforceblocker_blacklist_ip.txt"]="https://danger.rulez.sk/projects/bruteforceblocker/blist.php"
+          ["spamhaus_blacklist_ip.txt"]="https://www.spamhaus.org/drop/drop.txt"
+          ["ci-badguys_blacklist_ip.txt"]="http://cinsscore.com/list/ci-badguys.txt"
+          ["greensnow_blacklist_ip.txt"]="http://blocklist.greensnow.co/greensnow.txt"
+          ["firehol_level1_blacklist_ip.txt"]="https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset"
+          ["stopforumspam_7d_blacklist_ip.txt"]="https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_7d.ipset"
+          ["emergingthreats_compromised_ips_blacklist_ip.txt"]="https://rules.emergingthreats.net/blockrules/compromised-ips.txt"
+          ["emergingthreats_emerging_Block_IPs_blocklist_ip.txt"]="https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt"
+        )
+
+        for FILE in "${!SOURCES[@]}"; do
+          URL="${SOURCES[$FILE]}"
+          echo "Fetching $FILE from $URL"
+          curl -s -H "Accept: text/plain" "$URL" -o "${{ env.OUTPUT_DIR }}/$FILE"
+        done
+
+    - name: Combine and process blacklists
+      run: |
+        # Combine all blacklists, filter valid IPs, and deduplicate
+        cat ${{ env.OUTPUT_DIR }}/*.txt | grep -Po "(?:\d{1,3}\.){3}\d{1,3}(?:/\d{1,2})?" | sort | uniq > ${{ env.COMBINED_FILE }}
+
+        # Clean up combined file and format for NGINX
+        sed -e 's/^858.5.5.5//' -e '/^$/d' -e 's/^.*/deny &;/' ${{ env.COMBINED_FILE }} > ${{ env.NGINX_CONF }}
+
+    - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@master
       with:
-        commit_message: Update IPs.
+        commit_message: Update IP blacklists
