@@ -24,7 +24,7 @@
       href="https://static.maxmind.com/50540a1985fc3427fd9a/css/main.css"
       integrity="sha256-0EjvlhCsVVvZXxg/hKUrX9YBmn1ONJkq2JBSNu1L5Is="
       crossorigin="anonymous"
-      nonce="8XK3DfHoGzicrKIcHoCJCQ=="
+      nonce="_YaEcoo06fQ2CrP96b7pAw=="
     />
 
     
@@ -32,14 +32,14 @@
     <link
         href="https://fonts.googleapis.com/css?family=Material+Symbols+Outlined&amp;display=block"
         rel="stylesheet"
-        nonce="8XK3DfHoGzicrKIcHoCJCQ=="
+        nonce="_YaEcoo06fQ2CrP96b7pAw=="
         crossorigin="anonymous"
       />
 
 
     
 
-    <script nonce="8XK3DfHoGzicrKIcHoCJCQ==">
+    <script nonce="_YaEcoo06fQ2CrP96b7pAw==">
           var dataLayer = window.dataLayer || [];
           
           
@@ -47,7 +47,7 @@
 
 
     
-    <script nonce="8XK3DfHoGzicrKIcHoCJCQ==">
+    <script nonce="_YaEcoo06fQ2CrP96b7pAw==">
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
           w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
@@ -102,7 +102,7 @@
 
       <header class="header">
         <nav class="header__nav navbar navbar-expand-md mx-auto">
-          <a class="header__logo" href="home"> </a>
+          <a class="header__logo" href="home" aria-label="MaxMind"> </a>
 
           <div
             id="header__toggle"
@@ -565,6 +565,7 @@
           
           <div class="utility-nav__item utility-nav__item--search">
             <button
+              aria-label="Search MaxMind"
               class="utility-nav__link utility-nav__link--search"
               id="searchWidgetTrigger"
               type="button"
@@ -2681,12 +2682,12 @@
                 </p>
 
                 <script
-                  nonce="8XK3DfHoGzicrKIcHoCJCQ=="
+                  nonce="_YaEcoo06fQ2CrP96b7pAw=="
                   charset="utf-8"
                   type="text/javascript"
                   src="https://js.hsforms.net/forms/embed/v2.js"
                 ></script>
-                <script nonce="8XK3DfHoGzicrKIcHoCJCQ==">
+                <script nonce="_YaEcoo06fQ2CrP96b7pAw==">
                   hbspt.forms.create({
                     region: "na1",
                     portalId: "21266834",
@@ -2741,7 +2742,7 @@
 
     <script
         type="text/javascript"
-        nonce="8XK3DfHoGzicrKIcHoCJCQ=="
+        nonce="_YaEcoo06fQ2CrP96b7pAw=="
         id="hs-script-loader"
         async
         defer
@@ -2753,7 +2754,7 @@
 
     <script
         src="https://cloud.google.com/ai/gen-app-builder/client?hl=en_US"
-        nonce="8XK3DfHoGzicrKIcHoCJCQ=="
+        nonce="_YaEcoo06fQ2CrP96b7pAw=="
       ></script>
 
 
@@ -2767,7 +2768,7 @@
       src="https://static.maxmind.com/50540a1985fc3427fd9a/js/main.js"
       integrity="sha256-Mg4C9w7Hn58y0W4rGZOprQ6N1NLQ7dayoJlAjfn4xRM="
       crossorigin="anonymous"
-      nonce="8XK3DfHoGzicrKIcHoCJCQ=="
+      nonce="_YaEcoo06fQ2CrP96b7pAw=="
       type="module"
     ></script>
 
@@ -2776,11 +2777,11 @@
       src="https://static.maxmind.com/50540a1985fc3427fd9a/js/global-privacy-control.js"
       integrity="sha256-hkPSfhzJxvwQRfgkVhjl&#43;yM&#43;X57x76Z7N5p4ckd/EbA="
       crossorigin="anonymous"
-      nonce="8XK3DfHoGzicrKIcHoCJCQ=="
+      nonce="_YaEcoo06fQ2CrP96b7pAw=="
       type="module"
     ></script>
 
-<script nonce="8XK3DfHoGzicrKIcHoCJCQ==">
+<script nonce="_YaEcoo06fQ2CrP96b7pAw==">
   (function() {
     var mmapiws = window.__mmapiws = window.__mmapiws || {};
     mmapiws.accountId = 10;
