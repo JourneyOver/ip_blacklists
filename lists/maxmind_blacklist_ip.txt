@@ -21,10 +21,10 @@
       media="all"
       rel="stylesheet"
       type="text/css"
-      href="https://static.maxmind.com/c74a5c61306a26d0da1e/css/redesign.css"
-      integrity="sha256-but&#43;NXqZQW1PKpw0JnmrgsqxTDGHuT0xiyWGL2xiCVM="
+      href="https://static.maxmind.com/ab39e8b1e4a6cd304403/css/redesign.css"
+      integrity="sha256-Xn3MlrGSSlhl&#43;e6PDsuy6e4XGo7WP5UnqzJJgGmk/eE="
       crossorigin="anonymous"
-      nonce="--FwyFjPLiQMlYBIwAwHGg=="
+      nonce="s3-Ky0t4Zlt_dVptW4WTfA=="
     />
 
     
@@ -32,7 +32,7 @@
     <link
         href="https://fonts.googleapis.com/css?family=Material+Symbols+Outlined&amp;display=block"
         rel="stylesheet"
-        nonce="--FwyFjPLiQMlYBIwAwHGg=="
+        nonce="s3-Ky0t4Zlt_dVptW4WTfA=="
         crossorigin="anonymous"
       />
 
@@ -40,14 +40,14 @@
     
     
 
-      <script nonce="--FwyFjPLiQMlYBIwAwHGg==">
+      <script nonce="s3-Ky0t4Zlt_dVptW4WTfA==">
         var dataLayer = window.dataLayer || [];
         
         
       </script>
 
     
-    <script nonce="--FwyFjPLiQMlYBIwAwHGg==">
+    <script nonce="s3-Ky0t4Zlt_dVptW4WTfA==">
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
           w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
@@ -106,12 +106,17 @@
         class="header has-subnav 
         "
       >
-        <nav class="header__nav navbar navbar-expand-md mx-auto">
-          <a class="header__logo" href="home" aria-label="MaxMind"> </a>
+        <nav class="header__nav navbar navbar-expand-lg mx-auto">
+          <a
+            class="header__logo"
+            href="/en/home"
+            aria-label="MaxMind"
+          >
+          </a>
 
           <div
             id="header__toggle"
-            class="offcanvas offcanvas-end header__toggle"
+            class="offcanvas-lg offcanvas-end header__toggle"
             tabindex="-1"
           >
             
@@ -125,24 +130,28 @@
                     aria-expanded="false"
                     disabled
                   >
-                    Products
+                    Products &amp; solutions
                   </button>
                   <div
                     class="main-nav__dropdown-menu main-nav__dropdown-menu--products dropdown-menu"
                   >
-                    <div class="main-nav__dropdown-heading">By category</div>
-                    <div class="row">
-                      <div
-                        class="main-nav__subnav-group main-nav__subnav-group--products col-md-4"
-                      >
+                    <div class="main-nav__dropdown-heading text-medium-blue">
+                      Products
+                    </div>
+                    <div class="row main-nav__dropdown-group">
+                      <div class="main-nav__subnav-group col-lg-4">
                         <a
                           class="main-nav__subnav-item main-nav__subnav-item--products"
-                          href="solutions/minfraud-services"
+                          href="/en/solutions/fraud-prevention/overview"
                         >
+                          <img
+                            alt="minFraud product icon"
+                            src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/minfraud-product-icon.svg"
+                          />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--products"
                           >
-                            Fraud prevention
+                            minFraud: fraud &amp; risk API
                           </div>
                           <div class="main-nav__subnav-description">
                             Prevent online fraud and identify cyber threats with
@@ -150,17 +159,19 @@
                           </div>
                         </a>
                       </div>
-                      <div
-                        class="main-nav__subnav-group main-nav__subnav-group--products col-md-4"
-                      >
+                      <div class="main-nav__subnav-group col-lg-4">
                         <a
                           class="main-nav__subnav-item main-nav__subnav-item--products"
-                          href="solutions/ip-geolocation-databases-api-services"
+                          href="/en/solutions/ip-geolocation-databases-api-services"
                         >
+                          <img
+                            alt="GeoIP product icon"
+                            src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/geoip-product-icon.svg"
+                          />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--products"
                           >
-                            IP geolocation &amp; intelligence
+                            GeoIP: IP geolocation &amp; intelligence
                           </div>
                           <div class="main-nav__subnav-description">
                             Understand your online visitors and serve them
@@ -168,17 +179,19 @@
                           </div>
                         </a>
                       </div>
-                      <div
-                        class="main-nav__subnav-group main-nav__subnav-group--products col-md-4"
-                      >
+                      <div class="main-nav__subnav-group col-lg-4">
                         <a
                           class="main-nav__subnav-item main-nav__subnav-item--products"
-                          href="solutions/proxy-vpn-fraud-detection"
+                          href="/en/solutions/proxy-vpn-fraud-detection"
                         >
+                          <img
+                            alt="Proxy detection product icon"
+                            src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/proxy-detection-product-icon.svg"
+                          />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--products"
                           >
-                            Proxy detection
+                            Proxy &amp; VPN detection
                           </div>
                           <div class="main-nav__subnav-description">
                             Manage unauthorized access and cyber threats with
@@ -187,14 +200,21 @@
                         </a>
                       </div>
                     </div>
+                    <div class="main-nav__separator"></div>
                     <div>
-                      <div class="main-nav__dropdown-heading">By use case</div>
-                      <div class="row">
-                        <div class="main-nav__subnav-group col-md-4">
+                      <div class="main-nav__dropdown-heading text-orange mt-3">
+                        Solutions
+                      </div>
+                      <div class="row main-nav__dropdown-group">
+                        <div class="main-nav__subnav-group col-lg-4">
                           <a
                             class="main-nav__subnav-item main-nav__subnav-item--products"
                             href="/en/solutions/compliance"
                           >
+                            <img
+                              alt="Compliance solution icon"
+                              src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/compliance-solution-icon.svg"
+                            />
                             <div
                               class="main-nav__subnav-title main-nav__subnav-title--products"
                             >
@@ -220,26 +240,29 @@
                   >
                     Resources
                   </button>
-                  <div class="main-nav__dropdown-menu dropdown-menu row">
-                    <div class="main-nav__subnav-group col-md-3">
-                      <div class="main-nav__subnav-item row">
-                        <div class="col-auto col-md-12 col-xl-5">
+                  <div
+                    class="main-nav__dropdown-menu main-nav__dropdown-menu--resources dropdown-menu"
+                  >
+                    <div class="row main-nav__dropdown-group">
+                      <div class="main-nav__subnav-group col-lg-3">
+                        <div
+                          class="main-nav__subnav-item main-nav__subnav-item--resources"
+                        >
+                          <img
+                            alt="Support icon"
+                            src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/support-resources-icon.svg"
+                          />
                           <div
-                            class="main-nav__subnav-image main-nav__subnav-image--small"
+                            class="main-nav__subnav-title main-nav__subnav-title--resources"
                           >
-                            <img
-                              alt="Support main navigation icon"
-                              src="https://static.maxmind.com/c74a5c61306a26d0da1e/images/redesign/support-main-navigation-icon.svg"
-                              height="60"
-                              width="63"
-                            />
+                            Support
                           </div>
-                        </div>
-                        <div class="col col-md-12 col-xl-7">
-                          <div class="main-nav__subnav-title">Support</div>
-                          <ul class="main-nav__subnav-list">
+                          <ul
+                            class="main-nav__subnav-list main-nav__subnav-list--resources"
+                          >
                             <li class="main-nav__subnav-list-item">
-                              <a href="geoip-data-correction-request"
+                              <a
+                                href="/en/geoip-data-correction-request"
                                 >Submit a data correction</a
                               >
                             </li>
@@ -252,29 +275,29 @@
                               >
                             </li>
                             <li class="main-nav__subnav-list-item">
-                              <a href="company/contact-us">Contact Support</a>
+                              <a href="/en/company/contact-us"
+                                >Contact support</a
+                              >
                             </li>
                           </ul>
                         </div>
                       </div>
-                    </div>
-                    <div class="main-nav__subnav-group col-md-3">
-                      <div class="main-nav__subnav-item row">
-                        <div class="col-auto col-md-12 col-xl-5">
+                      <div class="main-nav__subnav-group col-lg-3">
+                        <div
+                          class="main-nav__subnav-item main-nav__subnav-item--resources"
+                        >
+                          <img
+                            alt="Learning icon"
+                            src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/learning-resources-icon.svg"
+                          />
                           <div
-                            class="main-nav__subnav-image main-nav__subnav-image--small"
+                            class="main-nav__subnav-title main-nav__subnav-title--resources"
                           >
-                            <img
-                              alt="Learning main navigation icon"
-                              src="https://static.maxmind.com/c74a5c61306a26d0da1e/images/redesign/learning-main-navigation-icon.svg"
-                              height="60"
-                              width="51"
-                            />
+                            Learning
                           </div>
-                        </div>
-                        <div class="col col-md-12 col-xl-7">
-                          <div class="main-nav__subnav-title">Learning</div>
-                          <ul class="main-nav__subnav-list">
+                          <ul
+                            class="main-nav__subnav-list main-nav__subnav-list--resources"
+                          >
                             <li class="main-nav__subnav-list-item">
                               <a
                                 href="https://support.maxmind.com/knowledge-base"
@@ -292,17 +315,20 @@
                               >
                             </li>
                             <li class="main-nav__subnav-list-item">
-                              <a href="geoip2-precision-demo">
+                              <a
+                                href="/en/geoip-web-services-demo"
+                              >
                                 GeoIP<sup>®</sup> demo
                               </a>
                             </li>
                             <li class="main-nav__subnav-list-item">
-                              <a href="locate-my-ip-address"
+                              <a href="/en/locate-my-ip-address"
                                 >Locate my IP address</a
                               >
                             </li>
                             <li class="main-nav__subnav-list-item">
-                              <a href="geoip-accuracy-comparison"
+                              <a
+                                href="/en/geoip-accuracy-comparison"
                                 >Accuracy comparison tool</a
                               >
                             </li>
@@ -314,24 +340,22 @@
                           </ul>
                         </div>
                       </div>
-                    </div>
-                    <div class="main-nav__subnav-group col-md-3">
-                      <div class="main-nav__subnav-item row">
-                        <div class="col-auto col-md-12 col-xl-5">
+                      <div class="main-nav__subnav-group col-lg-3">
+                        <div
+                          class="main-nav__subnav-item main-nav__subnav-item--resources"
+                        >
+                          <img
+                            alt="Developers icon"
+                            src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/developers-resources-icon.svg"
+                          />
                           <div
-                            class="main-nav__subnav-image main-nav__subnav-image--small"
+                            class="main-nav__subnav-title main-nav__subnav-title--resources"
                           >
-                            <img
-                              alt="Developers main navigation icon"
-                              src="https://static.maxmind.com/c74a5c61306a26d0da1e/images/redesign/developers-main-navigation-icon.svg"
-                              height="65"
-                              width="73"
-                            />
+                            Developers
                           </div>
-                        </div>
-                        <div class="col col-md-12 col-xl-7">
-                          <div class="main-nav__subnav-title">Developers</div>
-                          <ul class="main-nav__subnav-list">
+                          <ul
+                            class="main-nav__subnav-list main-nav__subnav-list--resources"
+                          >
                             <li class="main-nav__subnav-list-item">
                               <a
                                 href="https://dev.maxmind.com/"
@@ -341,45 +365,48 @@
                               >
                             </li>
                             <li class="main-nav__subnav-list-item">
-                              <a href="affiliate-program">Affiliate program</a>
+                              <a href="/en/affiliate-program"
+                                >Affiliate program</a
+                              >
                             </li>
                           </ul>
                         </div>
                       </div>
-                    </div>
-                    <div class="main-nav__subnav-group col-md-3">
-                      <div class="main-nav__subnav-item row">
-                        <div class="col-auto col-md-12 col-xl-5">
+                      <div class="main-nav__subnav-group col-lg-3">
+                        <div
+                          class="main-nav__subnav-item main-nav__subnav-item--resources"
+                        >
+                          <img
+                            alt="Legal icon"
+                            src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/legal-resources-icon.svg"
+                          />
                           <div
-                            class="main-nav__subnav-image main-nav__subnav-image--small"
+                            class="main-nav__subnav-title main-nav__subnav-title--resources"
                           >
-                            <img
-                              alt="Legal main navigation icon"
-                              src="https://static.maxmind.com/c74a5c61306a26d0da1e/images/redesign/legal-main-navigation-icon.svg"
-                              height="65"
-                              width="59"
-                            />
+                            Legal
                           </div>
-                        </div>
-                        <div class="col col-md-12 col-xl-7">
-                          <div class="main-nav__subnav-title">Legal</div>
-                          <ul class="main-nav__subnav-list">
+                          <ul
+                            class="main-nav__subnav-list main-nav__subnav-list--resources"
+                          >
                             <li class="main-nav__subnav-list-item">
-                              <a href="site-license-overview">Licensing</a>
+                              <a href="/en/site-license-overview"
+                                >Licensing</a
+                              >
                             </li>
                             <li class="main-nav__subnav-list-item">
-                              <a href="opt-out"
+                              <a href="/en/opt-out"
                                 >Do not sell my personal information</a
                               >
                             </li>
                             <li class="main-nav__subnav-list-item">
                               <a
-                                href="privacy-policy#california-notice-of-collection"
+                                href="/en/privacy-policy#california-notice-of-collection"
                                 >Notice of collection</a
                               >
                             </li>
                             <li class="main-nav__subnav-list-item">
-                              <a href="modern-slavery-transparency-statement"
+                              <a
+                                href="/en/modern-slavery-transparency-statement"
                                 >Modern Slavery Transparency Statement</a
                               >
                             </li>
@@ -397,105 +424,106 @@
                     aria-expanded="false"
                     disabled
                   >
-                    Company
+                    About us
                   </button>
-                  <div class="main-nav__dropdown-menu dropdown-menu">
-                    <div class="main-nav__subnav-group col-md-3">
-                      <div class="main-nav__subnav-item row">
-                        <div class="col-auto col-md-12 col-xl-5">
+                  <div
+                    class="main-nav__dropdown-menu main-nav__dropdown-menu--company dropdown-menu"
+                  >
+                    <div class="row main-nav__dropdown-group">
+                      <div class="main-nav__subnav-group col-lg-4">
+                        <a
+                          class="main-nav__subnav-item main-nav__subnav-item--company"
+                          href="/en/company/our-story"
+                        >
+                          <img
+                            alt="Our story icon"
+                            src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/our-story-company-icon.svg"
+                          />
                           <div
-                            class="main-nav__subnav-image main-nav__subnav-image--small"
+                            class="main-nav__subnav-title main-nav__subnav-title--company"
                           >
-                            <a href="company">
-                              <img
-                                alt="About is main navigation icon"
-                                src="https://static.maxmind.com/c74a5c61306a26d0da1e/images/redesign/about-us-main-navigation-icon.svg"
-                                height="62"
-                                width="62"
-                              />
-                            </a>
+                            Our story
                           </div>
-                        </div>
-                        <div class="col col-md-12 col-xl-7">
-                          <a class="main-nav__subnav-title" href="company"
-                            >About us</a
-                          >
-                        </div>
+                          <div class="main-nav__subnav-description">
+                            Who we are and our history
+                          </div>
+                        </a>
                       </div>
-                    </div>
-                    <div class="main-nav__subnav-group col-md-3">
-                      <div class="main-nav__subnav-item row">
-                        <div class="col-auto col-md-12 col-xl-5">
+                      <div class="main-nav__subnav-group col-lg-4">
+                        <a
+                          class="main-nav__subnav-item main-nav__subnav-item--company"
+                          href="company/why-choose-maxmind"
+                        >
+                          <img
+                            alt="Why choose MaxMind icon"
+                            src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/why-choose-maxmind-icon.svg"
+                          />
                           <div
-                            class="main-nav__subnav-image main-nav__subnav-image--small"
+                            class="main-nav__subnav-title main-nav__subnav-title--company"
                           >
-                            <a href="company/commitment-to-security">
-                              <img
-                                alt="Commitment to security main navigation icon"
-                                src="https://static.maxmind.com/c74a5c61306a26d0da1e/images/redesign/commitment-to-security-main-navigation-icon.svg"
-                                height="62"
-                                width="65"
-                              />
-                            </a>
+                            Why choose MaxMind
                           </div>
-                        </div>
-                        <div class="col col-md-12 col-xl-7">
-                          <a
-                            class="main-nav__subnav-title"
-                            href="company/commitment-to-security"
-                            >Commitment to security</a
-                          >
-                        </div>
+                          <div class="main-nav__subnav-description">
+                            Why our customers value us
+                          </div>
+                        </a>
                       </div>
-                    </div>
-                    <div class="main-nav__subnav-group col-md-3">
-                      <div class="main-nav__subnav-item row">
-                        <div class="col-auto col-md-12 col-xl-5">
+                      <div class="main-nav__subnav-group col-lg-4">
+                        <a
+                          class="main-nav__subnav-item main-nav__subnav-item--company"
+                          href="/en/company/working-at-maxmind"
+                        >
+                          <img
+                            alt="Working at MaxMind icon"
+                            src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/working-at-maxmind-icon.svg"
+                          />
                           <div
-                            class="main-nav__subnav-image main-nav__subnav-image--small"
+                            class="main-nav__subnav-title main-nav__subnav-title--company"
                           >
-                            <a href="company/working-at-maxmind">
-                              <img
-                                alt="Working at MaxMind main navigation icon"
-                                src="https://static.maxmind.com/c74a5c61306a26d0da1e/images/redesign/working-at-maxmind-main-navigation-icon.svg"
-                                height="62"
-                                width="62"
-                              />
-                            </a>
+                            Working at MaxMind
                           </div>
-                        </div>
-                        <div class="col col-md-12 col-xl-7">
-                          <a
-                            class="main-nav__subnav-title"
-                            href="company/working-at-maxmind"
-                            >Working at MaxMind</a
-                          >
-                        </div>
+                          <div class="main-nav__subnav-description">
+                            Opportunities to join our team
+                          </div>
+                        </a>
                       </div>
-                    </div>
-                    <div class="main-nav__subnav-group col-md-3">
-                      <div class="main-nav__subnav-item row">
-                        <div class="col-auto col-md-12 col-xl-5">
+                      <div class="main-nav__subnav-group col-lg-4">
+                        <a
+                          class="main-nav__subnav-item main-nav__subnav-item--company"
+                          href="/en/company/commitment-to-security"
+                        >
+                          <img
+                            alt="Commitment to security icon"
+                            src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/commitment-to-security-icon.svg"
+                          />
                           <div
-                            class="main-nav__subnav-image main-nav__subnav-image--small"
+                            class="main-nav__subnav-title main-nav__subnav-title--company"
                           >
-                            <a href="company/contact-us">
-                              <img
-                                alt="Contact us main navigation icon"
-                                src="https://static.maxmind.com/c74a5c61306a26d0da1e/images/redesign/contact-us-main-navigation-icon.svg"
-                                height="62"
-                                width="62"
-                              />
-                            </a>
+                            Commitment to security
                           </div>
-                        </div>
-                        <div class="col col-md-12 col-xl-7">
-                          <a
-                            class="main-nav__subnav-title"
-                            href="company/contact-us"
-                            >Contact us</a
+                          <div class="main-nav__subnav-description">
+                            Your privacy and security matters
+                          </div>
+                        </a>
+                      </div>
+                      <div class="main-nav__subnav-group col-lg-4">
+                        <a
+                          class="main-nav__subnav-item main-nav__subnav-item--company"
+                          href="/en/company/contact-us"
+                        >
+                          <img
+                            alt="Contact us icon"
+                            src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/redesign/contact-us-icon.svg"
+                          />
+                          <div
+                            class="main-nav__subnav-title main-nav__subnav-title--company"
                           >
-                        </div>
+                            Contact us
+                          </div>
+                          <div class="main-nav__subnav-description">
+                            Get in touch with our team
+                          </div>
+                        </a>
                       </div>
                     </div>
                   </div>
@@ -507,8 +535,9 @@
             <nav class="utility-nav">
               <button
                 type="button"
-                class="btn-close mm-icon mm-icon__close d-block d-md-none"
+                class="btn-close mm-icon mm-icon__close d-block d-lg-none"
                 data-bs-dismiss="offcanvas"
+                data-bs-target="#header__toggle"
                 aria-label="Close"
               ></button>
               <ul class="utility-nav__list">
@@ -520,7 +549,7 @@
                 >
                   
                     <a
-                      href="account/sign-in"
+                      href="/en/account/sign-in"
                       class="utility-nav__link"
                       title="Account"
                     >
@@ -542,7 +571,7 @@
                 <li class="utility-nav__item">
                   <a
                     class="utility-nav__link"
-                    href="shopping-cart/summary"
+                    href="/en/shopping-cart/summary"
                     title="Order summary"
                   >
                     
@@ -557,7 +586,7 @@
             </nav>
           </div>
 
-          <div class="d-flex">
+          <div class="header__actions">
             
             <div class="utility-nav__item utility-nav__item--search">
               <button
@@ -864,25 +893,31 @@
                     <li class="footer__nav-item">
                       <a
                         class="footer__nav-link"
-                        href="solutions/minfraud-services"
+                        href="/en/solutions/fraud-prevention/overview"
                       >
                         minFraud services
                       </a>
                     </li>
                     <li class="footer__nav-item">
-                      <a class="footer__nav-link" href="geoip-api-web-services">
+                      <a
+                        class="footer__nav-link"
+                        href="/en/geoip-api-web-services"
+                      >
                         GeoIP web services
                       </a>
                     </li>
                     <li class="footer__nav-item">
-                      <a class="footer__nav-link" href="geoip-databases">
+                      <a
+                        class="footer__nav-link"
+                        href="/en/geoip-databases"
+                      >
                         GeoIP databases
                       </a>
                     </li>
                     <li class="footer__nav-item">
                       <a
                         class="footer__nav-link"
-                        href="solutions/geoip2-enterprise-product-suite/anonymous-ip-database"
+                        href="/en/geoip-anonymous-ip-database"
                       >
                         GeoIP Anonymous IP database
                       </a>
@@ -890,7 +925,7 @@
                     <li class="footer__nav-item">
                       <a
                         class="footer__nav-link"
-                        href="solutions/geoip2-enterprise-product-suite/enterprise-database"
+                        href="/en/geoip-enterprise-database"
                       >
                         GeoIP Enterprise database
                       </a>
@@ -898,7 +933,7 @@
                     <li class="footer__nav-item">
                       <a
                         class="footer__nav-link"
-                        href="geolite-free-ip-geolocation-data"
+                        href="/en/geolite-free-ip-geolocation-data"
                       >
                         GeoLite free geolocation data
                       </a>
@@ -919,7 +954,7 @@
                     <li class="footer__nav-item">
                       <a
                         class="footer__nav-link"
-                        href="geoip-web-services-demo"
+                        href="/en/geoip-web-services-demo"
                       >
                         GeoIP demo
                       </a>
@@ -940,20 +975,23 @@
                     <li class="footer__nav-item">
                       <a
                         class="footer__nav-link"
-                        href="geoip-data-correction-request"
+                        href="/en/geoip-data-correction-request"
                       >
                         Submit a data correction
                       </a>
                     </li>
                     <li class="footer__nav-item">
-                      <a class="footer__nav-link" href="opt-out">
+                      <a
+                        class="footer__nav-link"
+                        href="/en/opt-out"
+                      >
                         Your privacy choices
                       </a>
                       <span class="footer__ccpa">
                         <img
                           class="footer__ccpa-icon"
                           alt="California Consumer Privacy Act (CCPA) Opt-Out Icon"
-                          src="https://static.maxmind.com/c74a5c61306a26d0da1e/images/icon-ccpa-opt-out.svg"
+                          src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/icon-ccpa-opt-out.svg"
                         />
                       </span>
                     </li>
@@ -986,24 +1024,38 @@
                       </a>
                     </li>
                     <li class="footer__nav-item">
-                      <a class="footer__nav-link" href="affiliate-program">
+                      <a
+                        class="footer__nav-link"
+                        href="/en/affiliate-program"
+                      >
                         Affiliate program
                       </a>
                     </li>
                   </ul>
                 </div>
                 <div class="col-sm-6 col-lg-3">
-                  <h4 class="footer__nav-heading">Company</h4>
+                  <h4 class="footer__nav-heading">About us</h4>
                   <ul class="footer__nav-list">
                     <li class="footer__nav-item">
-                      <a class="footer__nav-link" href="company">
-                        About MaxMind
+                      <a
+                        class="footer__nav-link"
+                        href="/en/company/our-story"
+                      >
+                        Our story
                       </a>
                     </li>
                     <li class="footer__nav-item">
                       <a
                         class="footer__nav-link"
-                        href="company/working-at-maxmind"
+                        href="/en/company/why-choose-maxmind"
+                      >
+                        Why choose MaxMind
+                      </a>
+                    </li>
+                    <li class="footer__nav-item">
+                      <a
+                        class="footer__nav-link"
+                        href="/en/company/working-at-maxmind"
                       >
                         Working at MaxMind
                       </a>
@@ -1011,13 +1063,16 @@
                     <li class="footer__nav-item">
                       <a
                         class="footer__nav-link"
-                        href="company/commitment-to-security"
+                        href="/en/company/commitment-to-security"
                       >
                         Commitment to security
                       </a>
                     </li>
                     <li class="footer__nav-item">
-                      <a class="footer__nav-link" href="company/contact-us">
+                      <a
+                        class="footer__nav-link"
+                        href="/en/company/contact-us"
+                      >
                         Contact us
                       </a>
                     </li>
@@ -1057,12 +1112,12 @@
                 </p>
 
                 <script
-                  nonce="--FwyFjPLiQMlYBIwAwHGg=="
+                  nonce="s3-Ky0t4Zlt_dVptW4WTfA=="
                   charset="utf-8"
                   type="text/javascript"
                   src="https://js.hsforms.net/forms/embed/v2.js"
                 ></script>
-                <script nonce="--FwyFjPLiQMlYBIwAwHGg==">
+                <script nonce="s3-Ky0t4Zlt_dVptW4WTfA==">
                   hbspt.forms.create({
                     region: "na1",
                     portalId: "21266834",
@@ -1086,11 +1141,15 @@
                 </div>
                 <div class="col-lg-3">
                   <div class="footer__legal-links">
-                    <a class="footer__legal-link" href="terms-of-use"
+                    <a
+                      class="footer__legal-link"
+                      href="/en/terms-of-use"
                       >Terms of Use</a
                     >
                     <span class="footer__legal-divider">|</span>
-                    <a class="footer__legal-link" href="privacy-policy"
+                    <a
+                      class="footer__legal-link"
+                      href="/en/privacy-policy"
                       >Privacy Policy</a
                     >
                   </div>
@@ -1099,11 +1158,11 @@
             </div>
             <div class="col-lg-3 col-sm-6 d-flex justify-content-md-end">
               <div class="footer__legal-logo">
-                <a class="footer__logo" href="home">
+                <a class="footer__logo" href="/en/home">
                   <img
                     class="footer__logo-svg"
                     alt="MaxMind's footer logo"
-                    src="https://static.maxmind.com/c74a5c61306a26d0da1e/images/maxmind-header-logo-compact-alt.svg"
+                    src="https://static.maxmind.com/ab39e8b1e4a6cd304403/images/maxmind-header-logo-compact-alt.svg"
                   />
                 </a>
               </div>
@@ -1117,7 +1176,7 @@
 
     <script
         type="text/javascript"
-        nonce="--FwyFjPLiQMlYBIwAwHGg=="
+        nonce="s3-Ky0t4Zlt_dVptW4WTfA=="
         id="hs-script-loader"
         async
         defer
@@ -1129,7 +1188,7 @@
 
     <script
         src="https://cloud.google.com/ai/gen-app-builder/client?hl=en_US"
-        nonce="--FwyFjPLiQMlYBIwAwHGg=="
+        nonce="s3-Ky0t4Zlt_dVptW4WTfA=="
       ></script>
 
 
@@ -1140,23 +1199,23 @@
     </gen-search-widget>
 
     <script
-      src="https://static.maxmind.com/c74a5c61306a26d0da1e/js/main.js"
-      integrity="sha256-v3EJE6yXZ9zVak4aFh3d8sYBKJOsCrOXcU9&#43;Lrodle4="
+      src="https://static.maxmind.com/ab39e8b1e4a6cd304403/js/main.js"
+      integrity="sha256-C3T/O47gsGasn&#43;ZNahEPVFV0OgjlxWsuG2uK3wbO0uI="
       crossorigin="anonymous"
-      nonce="--FwyFjPLiQMlYBIwAwHGg=="
+      nonce="s3-Ky0t4Zlt_dVptW4WTfA=="
       type="module"
     ></script>
 
     <script
       async
-      src="https://static.maxmind.com/c74a5c61306a26d0da1e/js/global-privacy-control.js"
+      src="https://static.maxmind.com/ab39e8b1e4a6cd304403/js/global-privacy-control.js"
       integrity="sha256-L6kHjhlS4Y0oVqttDuWrxU6Pt4RzAww/RF2UjVsEHUU="
       crossorigin="anonymous"
-      nonce="--FwyFjPLiQMlYBIwAwHGg=="
+      nonce="s3-Ky0t4Zlt_dVptW4WTfA=="
       type="module"
     ></script>
 
-<script nonce="--FwyFjPLiQMlYBIwAwHGg==">
+<script nonce="s3-Ky0t4Zlt_dVptW4WTfA==">
   (function() {
     var mmapiws = window.__mmapiws = window.__mmapiws || {};
     mmapiws.accountId = 10;
