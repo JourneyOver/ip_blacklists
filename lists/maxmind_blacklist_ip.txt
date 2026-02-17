@@ -24,7 +24,7 @@
       href="https://static.maxmind.com/547acf5326c3d82bab88/css/redesign.css"
       integrity="sha256-IZNCoiKGWcRTe9cG8pJfDyJ/8AjuITUIZFSQgqCXzu4="
       crossorigin="anonymous"
-      nonce="jJ-mAd0496tTOG9O_4jM-w=="
+      nonce="lIh-gKMIo8EQxGcZB_14SQ=="
     />
 
     
@@ -32,7 +32,7 @@
     <link
         href="https://fonts.googleapis.com/css?family=Material+Symbols+Outlined&amp;display=block"
         rel="stylesheet"
-        nonce="jJ-mAd0496tTOG9O_4jM-w=="
+        nonce="lIh-gKMIo8EQxGcZB_14SQ=="
         crossorigin="anonymous"
       />
 
@@ -40,14 +40,14 @@
     
     
 
-      <script nonce="jJ-mAd0496tTOG9O_4jM-w==">
+      <script nonce="lIh-gKMIo8EQxGcZB_14SQ==">
         var dataLayer = window.dataLayer || [];
         
         
       </script>
 
     
-    <script nonce="jJ-mAd0496tTOG9O_4jM-w==">
+    <script nonce="lIh-gKMIo8EQxGcZB_14SQ==">
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
           w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
@@ -1364,12 +1364,12 @@
                 </p>
 
                 <script
-                  nonce="jJ-mAd0496tTOG9O_4jM-w=="
+                  nonce="lIh-gKMIo8EQxGcZB_14SQ=="
                   charset="utf-8"
                   type="text/javascript"
                   src="https://js.hsforms.net/forms/embed/v2.js"
                 ></script>
-                <script nonce="jJ-mAd0496tTOG9O_4jM-w==">
+                <script nonce="lIh-gKMIo8EQxGcZB_14SQ==">
                   hbspt.forms.create({
                     region: "na1",
                     portalId: "21266834",
@@ -1428,7 +1428,7 @@
 
     <script
         type="text/javascript"
-        nonce="jJ-mAd0496tTOG9O_4jM-w=="
+        nonce="lIh-gKMIo8EQxGcZB_14SQ=="
         id="hs-script-loader"
         async
         defer
@@ -1440,7 +1440,7 @@
 
     <script
         src="https://cloud.google.com/ai/gen-app-builder/client?hl=en_US"
-        nonce="jJ-mAd0496tTOG9O_4jM-w=="
+        nonce="lIh-gKMIo8EQxGcZB_14SQ=="
       ></script>
 
 
@@ -1454,7 +1454,7 @@
       src="https://static.maxmind.com/547acf5326c3d82bab88/js/main.js"
       integrity="sha256-ErABh9UXt6j3ltN6oQtFk8wM4rVWFV9fYQ3x2TfGsu8="
       crossorigin="anonymous"
-      nonce="jJ-mAd0496tTOG9O_4jM-w=="
+      nonce="lIh-gKMIo8EQxGcZB_14SQ=="
       type="module"
     ></script>
 
@@ -1463,30 +1463,18 @@
       src="https://static.maxmind.com/547acf5326c3d82bab88/js/global-privacy-control.js"
       integrity="sha256-L6kHjhlS4Y0oVqttDuWrxU6Pt4RzAww/RF2UjVsEHUU="
       crossorigin="anonymous"
-      nonce="jJ-mAd0496tTOG9O_4jM-w=="
+      nonce="lIh-gKMIo8EQxGcZB_14SQ=="
       type="module"
     ></script>
 
-<script nonce="jJ-mAd0496tTOG9O_4jM-w==">
-  (function() {
-    var mmapiws = window.__mmapiws = window.__mmapiws || {};
-    mmapiws.accountId = 10;
-      
-    var loadDeviceJs = function() {
-      var element = document.createElement('script');
-      element.async = true;
-      element.src = 'https://' + (mmapiws.apiHost ?? 'device.maxmind.com') + '/js/device.js';
-      element.setAttribute('data-testid', 'injected-script-for-devicejs');
-      document.body.appendChild(element);
-    };
-    if (window.addEventListener) {
-      window.addEventListener('load', loadDeviceJs, false);
-    } else if (window.attachEvent) {
-      window.attachEvent('onload', loadDeviceJs);
-    } else {
-      window.onload = loadDeviceJs;
-    }
-  })();
+<script nonce="lIh-gKMIo8EQxGcZB_14SQ==" type="module">
+  import('https://device.maxmind.com/js/device-module.js')
+    .then(({ trackDevice }) =>
+      trackDevice({
+        accountId: 10,
+      })
+    )
+    .catch((e) => console.error(e));
 </script> 
 
   </body>
