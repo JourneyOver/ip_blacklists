@@ -21,10 +21,10 @@
       media="all"
       rel="stylesheet"
       type="text/css"
-      href="https://static.maxmind.com/547acf5326c3d82bab88/css/redesign.css"
+      href="https://static.maxmind.com/de8f7cee5095fa35759f/css/redesign.css"
       integrity="sha256-IZNCoiKGWcRTe9cG8pJfDyJ/8AjuITUIZFSQgqCXzu4="
       crossorigin="anonymous"
-      nonce="1SAVYkA3zF9NRI71ZxlArw=="
+      nonce="FxwIT7LmknfrMm5D5wZOdA=="
     />
 
     
@@ -32,7 +32,7 @@
     <link
         href="https://fonts.googleapis.com/css?family=Material+Symbols+Outlined&amp;display=block"
         rel="stylesheet"
-        nonce="1SAVYkA3zF9NRI71ZxlArw=="
+        nonce="FxwIT7LmknfrMm5D5wZOdA=="
         crossorigin="anonymous"
       />
 
@@ -40,14 +40,14 @@
     
     
 
-      <script nonce="1SAVYkA3zF9NRI71ZxlArw==">
+      <script nonce="FxwIT7LmknfrMm5D5wZOdA==">
         var dataLayer = window.dataLayer || [];
         
         
       </script>
 
     
-    <script nonce="1SAVYkA3zF9NRI71ZxlArw==">
+    <script nonce="FxwIT7LmknfrMm5D5wZOdA==">
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
           w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
@@ -146,7 +146,7 @@
                         >
                           <img
                             alt="minFraud product icon"
-                            src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/minfraud-product-icon.svg"
+                            src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/minfraud-product-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--products"
@@ -166,7 +166,7 @@
                         >
                           <img
                             alt="GeoIP product icon"
-                            src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/geoip-product-icon.svg"
+                            src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/geoip-product-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--products"
@@ -186,7 +186,7 @@
                         >
                           <img
                             alt="Proxy detection product icon"
-                            src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/proxy-detection-product-icon.svg"
+                            src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/proxy-detection-product-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--products"
@@ -213,7 +213,7 @@
                           >
                             <img
                               alt="Compliance solution icon"
-                              src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/compliance-solution-icon.svg"
+                              src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/compliance-solution-icon.svg"
                             />
                             <div
                               class="main-nav__subnav-title main-nav__subnav-title--products"
@@ -250,7 +250,7 @@
                         >
                           <img
                             alt="Support icon"
-                            src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/support-resources-icon.svg"
+                            src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/support-resources-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--resources"
@@ -288,7 +288,7 @@
                         >
                           <img
                             alt="Learning icon"
-                            src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/learning-resources-icon.svg"
+                            src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/learning-resources-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--resources"
@@ -346,7 +346,7 @@
                         >
                           <img
                             alt="Developers icon"
-                            src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/developers-resources-icon.svg"
+                            src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/developers-resources-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--resources"
@@ -378,7 +378,7 @@
                         >
                           <img
                             alt="Legal icon"
-                            src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/legal-resources-icon.svg"
+                            src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/legal-resources-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--resources"
@@ -437,7 +437,7 @@
                         >
                           <img
                             alt="Our story icon"
-                            src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/our-story-company-icon.svg"
+                            src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/our-story-company-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--company"
@@ -456,7 +456,7 @@
                         >
                           <img
                             alt="Why choose MaxMind icon"
-                            src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/why-choose-maxmind-icon.svg"
+                            src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/why-choose-maxmind-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--company"
@@ -475,7 +475,7 @@
                         >
                           <img
                             alt="Working at MaxMind icon"
-                            src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/working-at-maxmind-icon.svg"
+                            src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/working-at-maxmind-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--company"
@@ -494,7 +494,7 @@
                         >
                           <img
                             alt="Commitment to security icon"
-                            src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/commitment-to-security-icon.svg"
+                            src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/commitment-to-security-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--company"
@@ -513,7 +513,7 @@
                         >
                           <img
                             alt="Contact us icon"
-                            src="https://static.maxmind.com/547acf5326c3d82bab88/images/redesign/contact-us-icon.svg"
+                            src="https://static.maxmind.com/de8f7cee5095fa35759f/images/redesign/contact-us-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--company"
@@ -677,14 +677,14 @@
       <ul class="ps-3">
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/98.7.90.181"
-              >98.7.90.181</a
+            <a href="/en/high-risk-ip-sample/2.214.130.210"
+              >2.214.130.210</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/97.185.11.62"
-              >97.185.11.62</a
+            <a href="/en/high-risk-ip-sample/8.25.90.145"
+              >8.25.90.145</a
             >
           </li>
         
@@ -695,260 +695,26 @@
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/96.239.6.9"
-              >96.239.6.9</a
+            <a href="/en/high-risk-ip-sample/24.20.180.183"
+              >24.20.180.183</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/174.164.44.143"
-              >174.164.44.143</a
+            <a href="/en/high-risk-ip-sample/24.59.204.141"
+              >24.59.204.141</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/75.162.253.46"
-              >75.162.253.46</a
+            <a href="/en/high-risk-ip-sample/24.78.84.223"
+              >24.78.84.223</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/75.113.81.81"
-              >75.113.81.81</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/73.119.172.76"
-              >73.119.172.76</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/72.178.202.93"
-              >72.178.202.93</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/69.221.214.71"
-              >69.221.214.71</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/50.5.103.68"
-              >50.5.103.68</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/47.154.109.161"
-              >47.154.109.161</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/174.126.167.219"
-              >174.126.167.219</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/172.7.161.99"
-              >172.7.161.99</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/138.229.146.94"
-              >138.229.146.94</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/98.221.103.137"
-              >98.221.103.137</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/2.214.130.210"
-              >2.214.130.210</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/97.146.41.185"
-              >97.146.41.185</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/97.131.51.221"
-              >97.131.51.221</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/97.85.125.91"
-              >97.85.125.91</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/97.81.241.99"
-              >97.81.241.99</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/76.171.60.111"
-              >76.171.60.111</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/76.93.117.86"
-              >76.93.117.86</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/76.39.116.35"
-              >76.39.116.35</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/75.250.26.69"
-              >75.250.26.69</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/75.230.170.44"
-              >75.230.170.44</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/74.215.225.88"
-              >74.215.225.88</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/73.201.38.190"
-              >73.201.38.190</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/72.89.72.79"
-              >72.89.72.79</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/71.236.173.186"
-              >71.236.173.186</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/71.203.75.123"
-              >71.203.75.123</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/71.198.223.9"
-              >71.198.223.9</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/71.195.38.161"
-              >71.195.38.161</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/70.185.173.120"
-              >70.185.173.120</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/70.22.14.227"
-              >70.22.14.227</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/69.77.136.37"
-              >69.77.136.37</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/69.1.35.169"
-              >69.1.35.169</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/68.47.165.202"
-              >68.47.165.202</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/68.43.58.18"
-              >68.43.58.18</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/68.20.10.98"
-              >68.20.10.98</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/65.35.171.47"
-              >65.35.171.47</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/64.13.116.35"
-              >64.13.116.35</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/50.90.17.165"
-              >50.90.17.165</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/47.179.21.34"
-              >47.179.21.34</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/47.148.80.232"
-              >47.148.80.232</a
-            >
-          </li>
-        
-          <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/47.144.208.23"
-              >47.144.208.23</a
+            <a href="/en/high-risk-ip-sample/35.145.189.10"
+              >35.145.189.10</a
             >
           </li>
         
@@ -959,68 +725,206 @@
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/184.166.157.164"
-              >184.166.157.164</a
+            <a href="/en/high-risk-ip-sample/47.154.109.161"
+              >47.154.109.161</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/24.20.180.183"
-              >24.20.180.183</a
+            <a href="/en/high-risk-ip-sample/47.156.130.24"
+              >47.156.130.24</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/204.195.36.56"
-              >204.195.36.56</a
+            <a href="/en/high-risk-ip-sample/47.179.21.34"
+              >47.179.21.34</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/208.52.30.162"
-              >208.52.30.162</a
+            <a href="/en/high-risk-ip-sample/47.184.25.241"
+              >47.184.25.241</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/172.92.81.35"
-              >172.92.81.35</a
+            <a href="/en/high-risk-ip-sample/50.90.17.165"
+              >50.90.17.165</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/137.119.139.49"
-              >137.119.139.49</a
+            <a href="/en/high-risk-ip-sample/63.245.153.84"
+              >63.245.153.84</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/136.63.26.178"
-              >136.63.26.178</a
+            <a href="/en/high-risk-ip-sample/64.13.116.35"
+              >64.13.116.35</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/136.25.161.156"
-              >136.25.161.156</a
+            <a href="/en/high-risk-ip-sample/68.83.243.100"
+              >68.83.243.100</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/134.228.35.250"
-              >134.228.35.250</a
+            <a href="/en/high-risk-ip-sample/69.1.35.169"
+              >69.1.35.169</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/108.244.158.239"
-              >108.244.158.239</a
+            <a href="/en/high-risk-ip-sample/69.77.136.37"
+              >69.77.136.37</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/104.186.154.214"
-              >104.186.154.214</a
+            <a href="/en/high-risk-ip-sample/69.151.214.168"
+              >69.151.214.168</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/70.22.14.227"
+              >70.22.14.227</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/70.185.173.120"
+              >70.185.173.120</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/71.198.223.9"
+              >71.198.223.9</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/71.203.75.123"
+              >71.203.75.123</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/71.236.173.186"
+              >71.236.173.186</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/72.216.190.92"
+              >72.216.190.92</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/73.119.172.76"
+              >73.119.172.76</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/73.147.181.8"
+              >73.147.181.8</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/73.201.38.190"
+              >73.201.38.190</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/75.209.93.159"
+              >75.209.93.159</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/76.39.116.35"
+              >76.39.116.35</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/76.143.176.96"
+              >76.143.176.96</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/96.239.6.9"
+              >96.239.6.9</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/97.85.125.91"
+              >97.85.125.91</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/97.131.51.221"
+              >97.131.51.221</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/97.149.235.218"
+              >97.149.235.218</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/97.245.86.218"
+              >97.245.86.218</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/98.7.90.181"
+              >98.7.90.181</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/98.163.237.53"
+              >98.163.237.53</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/98.199.165.192"
+              >98.199.165.192</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/98.221.103.137"
+              >98.221.103.137</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/99.63.69.152"
+              >99.63.69.152</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/99.121.56.150"
+              >99.121.56.150</a
             >
           </li>
         
@@ -1031,20 +935,98 @@
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/99.120.21.152"
-              >99.120.21.152</a
+            <a href="/en/high-risk-ip-sample/104.186.154.214"
+              >104.186.154.214</a
             >
           </li>
         
           <li class="pb-2">
-            <a href="/en/high-risk-ip-sample/119.246.21.170"
-              >119.246.21.170</a
+            <a href="/en/high-risk-ip-sample/107.221.211.238"
+              >107.221.211.238</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/108.244.158.239"
+              >108.244.158.239</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/134.228.35.250"
+              >134.228.35.250</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/136.25.161.156"
+              >136.25.161.156</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/136.63.26.178"
+              >136.63.26.178</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/137.83.245.86"
+              >137.83.245.86</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/137.119.139.49"
+              >137.119.139.49</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/138.229.146.94"
+              >138.229.146.94</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/172.7.161.99"
+              >172.7.161.99</a
             >
           </li>
         
           <li class="pb-2">
             <a href="/en/high-risk-ip-sample/173.47.26.153"
               >173.47.26.153</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/174.107.180.189"
+              >174.107.180.189</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/174.126.167.219"
+              >174.126.167.219</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/174.164.44.143"
+              >174.164.44.143</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/184.166.157.164"
+              >184.166.157.164</a
+            >
+          </li>
+        
+          <li class="pb-2">
+            <a href="/en/high-risk-ip-sample/204.195.36.56"
+              >204.195.36.56</a
             >
           </li>
         
@@ -1243,7 +1225,7 @@
                         <img
                           class="footer__ccpa-icon"
                           alt="California Consumer Privacy Act (CCPA) Opt-Out Icon"
-                          src="https://static.maxmind.com/547acf5326c3d82bab88/images/icon-ccpa-opt-out.svg"
+                          src="https://static.maxmind.com/de8f7cee5095fa35759f/images/icon-ccpa-opt-out.svg"
                         />
                       </span>
                     </li>
@@ -1364,12 +1346,12 @@
                 </p>
 
                 <script
-                  nonce="1SAVYkA3zF9NRI71ZxlArw=="
+                  nonce="FxwIT7LmknfrMm5D5wZOdA=="
                   charset="utf-8"
                   type="text/javascript"
                   src="https://js.hsforms.net/forms/embed/v2.js"
                 ></script>
-                <script nonce="1SAVYkA3zF9NRI71ZxlArw==">
+                <script nonce="FxwIT7LmknfrMm5D5wZOdA==">
                   hbspt.forms.create({
                     region: "na1",
                     portalId: "21266834",
@@ -1414,7 +1396,7 @@
                   <img
                     class="footer__logo-svg"
                     alt="MaxMind's footer logo"
-                    src="https://static.maxmind.com/547acf5326c3d82bab88/images/maxmind-header-logo-compact-alt.svg"
+                    src="https://static.maxmind.com/de8f7cee5095fa35759f/images/maxmind-header-logo-compact-alt.svg"
                   />
                 </a>
               </div>
@@ -1428,7 +1410,7 @@
 
     <script
         type="text/javascript"
-        nonce="1SAVYkA3zF9NRI71ZxlArw=="
+        nonce="FxwIT7LmknfrMm5D5wZOdA=="
         id="hs-script-loader"
         async
         defer
@@ -1440,7 +1422,7 @@
 
     <script
         src="https://cloud.google.com/ai/gen-app-builder/client?hl=en_US"
-        nonce="1SAVYkA3zF9NRI71ZxlArw=="
+        nonce="FxwIT7LmknfrMm5D5wZOdA=="
       ></script>
 
 
@@ -1451,23 +1433,23 @@
     </gen-search-widget>
 
     <script
-      src="https://static.maxmind.com/547acf5326c3d82bab88/js/main.js"
+      src="https://static.maxmind.com/de8f7cee5095fa35759f/js/main.js"
       integrity="sha256-ErABh9UXt6j3ltN6oQtFk8wM4rVWFV9fYQ3x2TfGsu8="
       crossorigin="anonymous"
-      nonce="1SAVYkA3zF9NRI71ZxlArw=="
+      nonce="FxwIT7LmknfrMm5D5wZOdA=="
       type="module"
     ></script>
 
     <script
       async
-      src="https://static.maxmind.com/547acf5326c3d82bab88/js/global-privacy-control.js"
+      src="https://static.maxmind.com/de8f7cee5095fa35759f/js/global-privacy-control.js"
       integrity="sha256-L6kHjhlS4Y0oVqttDuWrxU6Pt4RzAww/RF2UjVsEHUU="
       crossorigin="anonymous"
-      nonce="1SAVYkA3zF9NRI71ZxlArw=="
+      nonce="FxwIT7LmknfrMm5D5wZOdA=="
       type="module"
     ></script>
 
-<script nonce="1SAVYkA3zF9NRI71ZxlArw==" type="module">
+<script nonce="FxwIT7LmknfrMm5D5wZOdA==" type="module">
   import('https://device.maxmind.com/js/device-module.js')
     .then(({ trackDevice }) =>
       trackDevice({
