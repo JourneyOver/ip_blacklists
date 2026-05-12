@@ -21,10 +21,10 @@
       media="all"
       rel="stylesheet"
       type="text/css"
-      href="https://static.maxmind.com/fa1cc69780d69614362d/css/redesign.css"
+      href="https://static.maxmind.com/0b887b9e91a69f2a1a07/css/redesign.css"
       integrity="sha256-u1ut/LfgyFsmnJtsurNRKjaIzls4zhFEX6Us5QISCIY="
       crossorigin="anonymous"
-      nonce="wv5Q1k1gfFe1uauDVY-GAA=="
+      nonce="so9oKih1bjQpkTu18Gs2ag=="
     />
 
     
@@ -32,7 +32,7 @@
     <link
         href="https://fonts.googleapis.com/css?family=Material+Symbols+Outlined&amp;display=block"
         rel="stylesheet"
-        nonce="wv5Q1k1gfFe1uauDVY-GAA=="
+        nonce="so9oKih1bjQpkTu18Gs2ag=="
         crossorigin="anonymous"
       />
 
@@ -40,14 +40,14 @@
     
     
 
-      <script nonce="wv5Q1k1gfFe1uauDVY-GAA==">
+      <script nonce="so9oKih1bjQpkTu18Gs2ag==">
         var dataLayer = window.dataLayer || [];
         
         
       </script>
 
     
-    <script nonce="wv5Q1k1gfFe1uauDVY-GAA==">
+    <script nonce="so9oKih1bjQpkTu18Gs2ag==">
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
           w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
@@ -146,7 +146,7 @@
                         >
                           <img
                             alt="minFraud product icon"
-                            src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/minfraud-product-icon.svg"
+                            src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/minfraud-product-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--products"
@@ -166,7 +166,7 @@
                         >
                           <img
                             alt="GeoIP product icon"
-                            src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/geoip-product-icon.svg"
+                            src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/geoip-product-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--products"
@@ -186,7 +186,7 @@
                         >
                           <img
                             alt="Proxy detection product icon"
-                            src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/proxy-detection-product-icon.svg"
+                            src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/proxy-detection-product-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--products"
@@ -213,7 +213,7 @@
                           >
                             <img
                               alt="Compliance solution icon"
-                              src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/compliance-solution-icon.svg"
+                              src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/compliance-solution-icon.svg"
                             />
                             <div
                               class="main-nav__subnav-title main-nav__subnav-title--products"
@@ -250,7 +250,7 @@
                         >
                           <img
                             alt="Support icon"
-                            src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/support-resources-icon.svg"
+                            src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/support-resources-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--resources"
@@ -288,7 +288,7 @@
                         >
                           <img
                             alt="Learning icon"
-                            src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/learning-resources-icon.svg"
+                            src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/learning-resources-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--resources"
@@ -346,7 +346,7 @@
                         >
                           <img
                             alt="Developers icon"
-                            src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/developers-resources-icon.svg"
+                            src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/developers-resources-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--resources"
@@ -378,7 +378,7 @@
                         >
                           <img
                             alt="Legal icon"
-                            src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/legal-resources-icon.svg"
+                            src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/legal-resources-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--resources"
@@ -443,7 +443,7 @@
                         >
                           <img
                             alt="Our story icon"
-                            src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/our-story-company-icon.svg"
+                            src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/our-story-company-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--company"
@@ -462,7 +462,7 @@
                         >
                           <img
                             alt="Why choose MaxMind icon"
-                            src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/why-choose-maxmind-icon.svg"
+                            src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/why-choose-maxmind-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--company"
@@ -481,7 +481,7 @@
                         >
                           <img
                             alt="Working at MaxMind icon"
-                            src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/working-at-maxmind-icon.svg"
+                            src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/working-at-maxmind-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--company"
@@ -500,7 +500,7 @@
                         >
                           <img
                             alt="Commitment to security icon"
-                            src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/commitment-to-security-icon.svg"
+                            src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/commitment-to-security-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--company"
@@ -519,7 +519,7 @@
                         >
                           <img
                             alt="Contact us icon"
-                            src="https://static.maxmind.com/fa1cc69780d69614362d/images/redesign/contact-us-icon.svg"
+                            src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/redesign/contact-us-icon.svg"
                           />
                           <div
                             class="main-nav__subnav-title main-nav__subnav-title--company"
@@ -629,6 +629,7 @@
             <div class="row page-row">
               <div class="content-container col-12" id="content-container">
                 <div id="content" class="content">
+                  <div id="js-alerts"></div>
                   <section class="section bg-dark-blue">
     <div class="section__wrapper">
       <h1 class="legal-page__heading">
@@ -7123,7 +7124,7 @@
                         <img
                           class="footer__ccpa-icon"
                           alt="California Consumer Privacy Act (CCPA) Opt-Out Icon"
-                          src="https://static.maxmind.com/fa1cc69780d69614362d/images/icon-ccpa-opt-out.svg"
+                          src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/icon-ccpa-opt-out.svg"
                         />
                       </span>
                     </li>
@@ -7244,12 +7245,12 @@
                 </p>
 
                 <script
-                  nonce="wv5Q1k1gfFe1uauDVY-GAA=="
+                  nonce="so9oKih1bjQpkTu18Gs2ag=="
                   charset="utf-8"
                   type="text/javascript"
                   src="https://js.hsforms.net/forms/embed/v2.js"
                 ></script>
-                <script nonce="wv5Q1k1gfFe1uauDVY-GAA==">
+                <script nonce="so9oKih1bjQpkTu18Gs2ag==">
                   hbspt.forms.create({
                     region: "na1",
                     portalId: "21266834",
@@ -7294,7 +7295,7 @@
                   <img
                     class="footer__logo-svg"
                     alt="MaxMind's footer logo"
-                    src="https://static.maxmind.com/fa1cc69780d69614362d/images/maxmind-header-logo-compact-alt.svg"
+                    src="https://static.maxmind.com/0b887b9e91a69f2a1a07/images/maxmind-header-logo-compact-alt.svg"
                   />
                 </a>
               </div>
@@ -7309,7 +7310,7 @@
     
       <script
         type="text/javascript"
-        nonce="wv5Q1k1gfFe1uauDVY-GAA=="
+        nonce="so9oKih1bjQpkTu18Gs2ag=="
         id="hs-script-loader"
         async
         defer
@@ -7321,7 +7322,7 @@
 
     <script
         src="https://cloud.google.com/ai/gen-app-builder/client?hl=en_US"
-        nonce="wv5Q1k1gfFe1uauDVY-GAA=="
+        nonce="so9oKih1bjQpkTu18Gs2ag=="
       ></script>
 
 
@@ -7332,23 +7333,23 @@
     </gen-search-widget>
 
     <script
-      src="https://static.maxmind.com/fa1cc69780d69614362d/js/main.js"
+      src="https://static.maxmind.com/0b887b9e91a69f2a1a07/js/main.js"
       integrity="sha256-/eaq/VeDhNTyIboJrxiYnhoeG7OGX&#43;&#43;fQTNjPsuEflE="
       crossorigin="anonymous"
-      nonce="wv5Q1k1gfFe1uauDVY-GAA=="
+      nonce="so9oKih1bjQpkTu18Gs2ag=="
       type="module"
     ></script>
 
     <script
       async
-      src="https://static.maxmind.com/fa1cc69780d69614362d/js/global-privacy-control.js"
+      src="https://static.maxmind.com/0b887b9e91a69f2a1a07/js/global-privacy-control.js"
       integrity="sha256-L6kHjhlS4Y0oVqttDuWrxU6Pt4RzAww/RF2UjVsEHUU="
       crossorigin="anonymous"
-      nonce="wv5Q1k1gfFe1uauDVY-GAA=="
+      nonce="so9oKih1bjQpkTu18Gs2ag=="
       type="module"
     ></script>
 
-<script nonce="wv5Q1k1gfFe1uauDVY-GAA==" type="module">
+<script nonce="so9oKih1bjQpkTu18Gs2ag==" type="module">
   import('https://device.maxmind.com/js/device-module.js')
     .then(({ trackDevice }) =>
       trackDevice({
