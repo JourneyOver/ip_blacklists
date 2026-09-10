@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@main
+      uses: actions/checkout@v7
 
     - name: Create output directory
       run: mkdir -p ${{ env.OUTPUT_DIR }}
@@ -63,6 +63,6 @@ jobs:
         sed -e 's/^858.5.5.5//' -e '/^$/d' -e 's/^.*/deny &;/' ${{ env.COMBINED_FILE }} > ${{ env.NGINX_CONF }}
 
     - name: Commit and push changes
-      uses: stefanzweifel/git-auto-commit-action@master
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Update IP blacklists
